@@ -1,0 +1,5 @@
+data_protocol,scenario,protocol,vs,mean_cell_tau,winner_flip_rate,tau_of_avg_ranks,n_cells
+dedup_after,lofo,random_labeled,v1_firstk_labeled,0.875,0.0,1.0,8
+dedup_after,lofo,random_labelfree,v1_firstk_labeled,1.0,0.0,1.0,8
+dedup_after,temporal,random_labeled,v1_firstk_labeled,0.888888888888889,0.0,1.0,6
+dedup_after,temporal,random_labelfree,v1_firstk_labeled,1.0,0.0,1.0,6

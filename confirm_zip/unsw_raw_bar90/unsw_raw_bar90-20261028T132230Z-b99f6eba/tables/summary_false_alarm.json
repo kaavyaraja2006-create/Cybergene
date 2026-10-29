@@ -1,0 +1,26 @@
+[
+  {
+    "model": "isolation_forest",
+    "delta": 0.01,
+    "false_alarm_rate": 0.008,
+    "n_streams": 250
+  },
+  {
+    "model": "pca",
+    "delta": 0.01,
+    "false_alarm_rate": 0.0,
+    "n_streams": 250
+  },
+  {
+    "model": "hbos",
+    "delta": 0.01,
+    "false_alarm_rate": 0.004,
+    "n_streams": 250
+  },
+  {
+    "model": "ecod",
+    "delta": 0.01,
+    "false_alarm_rate": 0.008,
+    "n_streams": 250
+  }
+]

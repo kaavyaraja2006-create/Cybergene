@@ -1,0 +1,6 @@
+name: ann_scaling
+seeds: 0-4
+sizes: [1000, 3000, 10000, 50000, 100000]
+n_queries: 200
+sql_max_queries_large: 20     # SQL/JSON scan is O(n) JSON parsing per query; recorded per row as n_queries
+hnsw: {M: 16, ef_construction: 200, ef_search: [20, 50, 200]}

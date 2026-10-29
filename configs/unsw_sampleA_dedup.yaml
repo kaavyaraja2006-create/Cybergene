@@ -1,0 +1,12 @@
+name: unsw_sampleA_dedup_comparison
+data: {kind: unsw, path: data/UNSW-NB15/UNSW-NB15_1.csv, version: "set-me", sample_n: 20000, sample_seed: 0, features_file: data/UNSW-NB15/NUSW-NB15_features.csv}
+near_dup: {time_window: 5.0, cos_threshold: 0.999, window: 50}
+modes: [none, exact, near]
+port_mode: onehot
+standardize: true
+legacy_contamination: [0.15]
+seeds: 0-29
+models: [isolation_forest, ocsvm, lof, autoencoder, rule_based, logreg, random_forest, lightgbm]
+tune: true
+max_configs: 6
+n_boot: 10000

@@ -1,0 +1,74 @@
+{
+  "experiment_id": "recal_study-20261027T192057Z-f49b8039",
+  "experiment": "recal_study",
+  "timestamp_utc": "2026-10-27T19:20:57.102211+00:00",
+  "git": {
+    "commit": "15a589bbef678b57cf2d69be20da844abe1fa109",
+    "dirty": true,
+    "note": null
+  },
+  "environment": {
+    "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (3)\\CYBERGENE_v2\\.venv\\Scripts\\python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "cpu": {
+      "model": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "logical_cores": 20,
+      "total_memory_bytes": 16873545728
+    },
+    "gpu": {
+      "gpus": [
+        "NVIDIA GeForce RTX 4050 Laptop GPU, 6141 MiB, 581.86"
+      ]
+    },
+    "packages": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pandas": "3.1.0",
+      "scikit-learn": "1.9.1",
+      "lightgbm": "4.7.0",
+      "xgboost": null,
+      "hnswlib": null,
+      "faiss-cpu": null,
+      "matplotlib": "3.11.2",
+      "PyYAML": "6.0.3",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1"
+    },
+    "env_threads": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    }
+  },
+  "dataset": {
+    "synthetic": true,
+    "source": "score-level simulation"
+  },
+  "seeds": [
+    0,
+    1
+  ],
+  "cli_args": [
+    "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (4)\\CYBERGENE_v2\\cgresearch\\cli.py",
+    "recal-study",
+    "-c",
+    "configs\\v2_recal_study.yaml",
+    "--seeds",
+    "0-1",
+    "--set",
+    "reps=20"
+  ],
+  "config_sha256": "f49b80393921da29c1d0982f3bd8cfe376e8ba299a3f4e650f5f2d2990c571db",
+  "status": "completed",
+  "result_files": [
+    "tables/summary.csv",
+    "tables/summary.json",
+    "tables/summary_by_attack.csv",
+    "tables/summary_by_attack.json",
+    "tables/per_rep.csv",
+    "tables/per_rep.json"
+  ],
+  "runtime_seconds": 85.096
+}

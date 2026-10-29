@@ -1,0 +1,16 @@
+# Experiment 6: CIC-IDS2017 (second dataset; reported separately, never merged)
+name: cic2017_detection
+data: {kind: cic2017, path: data/CIC-IDS2017, version: "CIC-IDS2017 GeneratedLabelledFlows or MachineLearningCSV (record which)", sample_n: 200000, sample_seed: 0}
+dedup: exact              # none | exact | near (applied BEFORE splitting); rerun with --set dedup=none for the original-data result
+near_dup: {time_window: 5.0, cos_threshold: 0.999, window: 50}
+port_mode: onehot             # raw | separate_std | drop | onehot | onehot_scaled  (Sample B has no ports: ignored)
+standardize: true
+seeds: 0-29
+benign_frac: [0.6, 0.2, 0.2]
+attack_frac: [0.4, 0.2, 0.4]
+models: [isolation_forest, ocsvm, lof, autoencoder, rule_based, logreg, random_forest, lightgbm]
+target_fprs: [0.01, 0.02, 0.05, 0.10]
+legacy_contamination: [0.15]   # paper's legacy protocol (Eq. 4): contamination c = 0.15
+tune: true                # validation-only, PR-AUC
+max_configs: 6
+n_boot: 10000

@@ -1,0 +1,4 @@
+model,n_windows,spearman_dplus_unlabeled_vs_inflation,spearman_dplus_oracle_vs_inflation
+isolation_forest,6,1.0,0.8857142857142858
+pca,6,0.942857142857143,0.942857142857143
+hbos,6,0.6571428571428573,0.6571428571428573

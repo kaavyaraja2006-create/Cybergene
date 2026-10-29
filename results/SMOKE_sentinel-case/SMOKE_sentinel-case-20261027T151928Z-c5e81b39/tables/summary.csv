@@ -1,0 +1,16 @@
+agent,metric,mean,ci_low,ci_high,n_clusters
+original,fpr,0.4275,0.24666666666666665,0.6008333333333333,4
+original,recall,1.0,1.0,1.0,4
+original,violation_rate(fpr>alpha),1.0,1.0,1.0,4
+cal_static,fpr,0.12583333333333332,0.0775,0.16166666666666668,4
+cal_static,recall,0.6000000000000001,0.5746875,0.6375,4
+cal_static,violation_rate(fpr>alpha),0.625,0.5,0.875,4
+cal_monitored,fpr,0.06333333333333334,0.03833333333333333,0.10583333333333333,4
+cal_monitored,recall,0.4041666666666667,0.2041666666666667,0.625,4
+cal_monitored,violation_rate(fpr>alpha),0.25,0.0,0.5,4
+cal_monitored_bar,fpr,0.05041666666666667,0.02,0.09458333333333334,4
+cal_monitored_bar,recall,0.4041666666666667,0.2041666666666667,0.625,4
+cal_monitored_bar,violation_rate(fpr>alpha),0.25,0.0,0.5,4
+cal_monitored_bar_hint,fpr,0.059166666666666666,0.03,0.10583333333333333,4
+cal_monitored_bar_hint,recall,0.4041666666666667,0.2041666666666667,0.625,4
+cal_monitored_bar_hint,violation_rate(fpr>alpha),0.25,0.0,0.5,4

@@ -1,0 +1,326 @@
+[
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "drift": "scale1.1",
+    "d_plus": 0.06887999999999994,
+    "seed": 0,
+    "rep": 0,
+    "realised_delay": NaN,
+    "predicted_delay": 760.410543831772
+  },
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "drift": "scale1.1",
+    "d_plus": 0.06887999999999994,
+    "seed": 0,
+    "rep": 1,
+    "realised_delay": NaN,
+    "predicted_delay": 1002.4756516649
+  },
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "drift": "scale1.1",
+    "d_plus": 0.06887999999999994,
+    "seed": 0,
+    "rep": 2,
+    "realised_delay": 1367.0,
+    "predicted_delay": 530.6953840633138
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "drift": "scale1.25",
+    "d_plus": 0.15450999999999993,
+    "seed": 0,
+    "rep": 0,
+    "realised_delay": 292.0,
+    "predicted_delay": 65.58195219449094
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "drift": "scale1.25",
+    "d_plus": 0.15450999999999993,
+    "seed": 0,
+    "rep": 1,
+    "realised_delay": 91.0,
+    "predicted_delay": 62.969045166466465
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "drift": "scale1.25",
+    "d_plus": 0.15450999999999993,
+    "seed": 0,
+    "rep": 2,
+    "realised_delay": 190.0,
+    "predicted_delay": 58.96282688079638
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "drift": "scale1.5",
+    "d_plus": 0.27362,
+    "seed": 0,
+    "rep": 0,
+    "realised_delay": 24.0,
+    "predicted_delay": 16.681261724425966
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "drift": "scale1.5",
+    "d_plus": 0.27362,
+    "seed": 0,
+    "rep": 1,
+    "realised_delay": 17.0,
+    "predicted_delay": 14.734478946966476
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "drift": "scale1.5",
+    "d_plus": 0.27362,
+    "seed": 0,
+    "rep": 2,
+    "realised_delay": 35.0,
+    "predicted_delay": 15.20754702931653
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "drift": "scale2.0",
+    "d_plus": 0.44594,
+    "seed": 0,
+    "rep": 0,
+    "realised_delay": 5.0,
+    "predicted_delay": 5.4729430785593705
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "drift": "scale2.0",
+    "d_plus": 0.44594,
+    "seed": 0,
+    "rep": 1,
+    "realised_delay": 20.0,
+    "predicted_delay": 6.162699028675431
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "drift": "scale2.0",
+    "d_plus": 0.44594,
+    "seed": 0,
+    "rep": 2,
+    "realised_delay": 6.0,
+    "predicted_delay": 5.31324153145456
+  },
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "drift": "loc0.5",
+    "d_plus": 0.12420000000000003,
+    "seed": 0,
+    "rep": 0,
+    "realised_delay": 378.0,
+    "predicted_delay": 150.69404305871515
+  },
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "drift": "loc0.5",
+    "d_plus": 0.12420000000000003,
+    "seed": 0,
+    "rep": 1,
+    "realised_delay": 173.0,
+    "predicted_delay": 132.6731815206684
+  },
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "drift": "loc0.5",
+    "d_plus": 0.12420000000000003,
+    "seed": 0,
+    "rep": 2,
+    "realised_delay": 134.0,
+    "predicted_delay": 191.71216850041097
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "drift": "loc1.0",
+    "d_plus": 0.25942000000000004,
+    "seed": 0,
+    "rep": 0,
+    "realised_delay": 71.0,
+    "predicted_delay": 37.28353309905796
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "drift": "loc1.0",
+    "d_plus": 0.25942000000000004,
+    "seed": 0,
+    "rep": 1,
+    "realised_delay": 29.0,
+    "predicted_delay": 63.8875249548668
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "drift": "loc1.0",
+    "d_plus": 0.25942000000000004,
+    "seed": 0,
+    "rep": 2,
+    "realised_delay": 45.0,
+    "predicted_delay": 41.21559249445423
+  },
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "drift": "scale1.1",
+    "d_plus": 0.08518999999999999,
+    "seed": 1,
+    "rep": 0,
+    "realised_delay": 722.0,
+    "predicted_delay": 212.99925157387258
+  },
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "drift": "scale1.1",
+    "d_plus": 0.08518999999999999,
+    "seed": 1,
+    "rep": 1,
+    "realised_delay": 404.0,
+    "predicted_delay": 188.70151997443406
+  },
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "drift": "scale1.1",
+    "d_plus": 0.08518999999999999,
+    "seed": 1,
+    "rep": 2,
+    "realised_delay": 390.0,
+    "predicted_delay": 310.8674055922555
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "drift": "scale1.25",
+    "d_plus": 0.17302000000000006,
+    "seed": 1,
+    "rep": 0,
+    "realised_delay": 73.0,
+    "predicted_delay": 52.03668946616266
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "drift": "scale1.25",
+    "d_plus": 0.17302000000000006,
+    "seed": 1,
+    "rep": 1,
+    "realised_delay": 56.0,
+    "predicted_delay": 51.23944050213309
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "drift": "scale1.25",
+    "d_plus": 0.17302000000000006,
+    "seed": 1,
+    "rep": 2,
+    "realised_delay": 50.0,
+    "predicted_delay": 75.54201750593063
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "drift": "scale1.5",
+    "d_plus": 0.29316000000000003,
+    "seed": 1,
+    "rep": 0,
+    "realised_delay": 30.0,
+    "predicted_delay": 14.882775962187718
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "drift": "scale1.5",
+    "d_plus": 0.29316000000000003,
+    "seed": 1,
+    "rep": 1,
+    "realised_delay": 8.0,
+    "predicted_delay": 15.721889376667757
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "drift": "scale1.5",
+    "d_plus": 0.29316000000000003,
+    "seed": 1,
+    "rep": 2,
+    "realised_delay": 16.0,
+    "predicted_delay": 16.338112109569444
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "drift": "scale2.0",
+    "d_plus": 0.46385000000000004,
+    "seed": 1,
+    "rep": 0,
+    "realised_delay": 15.0,
+    "predicted_delay": 5.615813997289046
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "drift": "scale2.0",
+    "d_plus": 0.46385000000000004,
+    "seed": 1,
+    "rep": 1,
+    "realised_delay": 15.0,
+    "predicted_delay": 5.531666059938298
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "drift": "scale2.0",
+    "d_plus": 0.46385000000000004,
+    "seed": 1,
+    "rep": 2,
+    "realised_delay": 7.0,
+    "predicted_delay": 5.134270280166341
+  },
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "drift": "loc0.5",
+    "d_plus": 0.13714000000000004,
+    "seed": 1,
+    "rep": 0,
+    "realised_delay": 101.0,
+    "predicted_delay": 110.93679712898832
+  },
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "drift": "loc0.5",
+    "d_plus": 0.13714000000000004,
+    "seed": 1,
+    "rep": 1,
+    "realised_delay": 81.0,
+    "predicted_delay": 100.05870524320387
+  },
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "drift": "loc0.5",
+    "d_plus": 0.13714000000000004,
+    "seed": 1,
+    "rep": 2,
+    "realised_delay": 104.0,
+    "predicted_delay": 121.21303264139931
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "drift": "loc1.0",
+    "d_plus": 0.27184,
+    "seed": 1,
+    "rep": 0,
+    "realised_delay": 54.0,
+    "predicted_delay": 39.256582767426785
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "drift": "loc1.0",
+    "d_plus": 0.27184,
+    "seed": 1,
+    "rep": 1,
+    "realised_delay": 64.0,
+    "predicted_delay": 38.78265421301001
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "drift": "loc1.0",
+    "d_plus": 0.27184,
+    "seed": 1,
+    "rep": 2,
+    "realised_delay": 18.0,
+    "predicted_delay": 38.016398659850125
+  }
+]

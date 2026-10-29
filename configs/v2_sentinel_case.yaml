@@ -1,0 +1,8 @@
+name: sentinel_case
+seeds: 0-29
+n_sessions: 2000
+phases: 8
+drift_per_phase: 0.10
+attacks_per_phase: 60
+alpha: 0.05
+n_boot: 10000

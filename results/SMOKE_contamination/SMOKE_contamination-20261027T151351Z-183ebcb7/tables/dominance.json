@@ -1,0 +1,212 @@
+[
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.05888888888888889,
+    "n_attack": 900
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "backdoor",
+    "d_dom": 0.03169848262359276,
+    "n_attack": 227
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "dos",
+    "d_dom": 0.0022222222222222365,
+    "n_attack": 252
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "exploit",
+    "d_dom": 0.20039215686274509,
+    "n_attack": 204
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "recon",
+    "d_dom": 0.3486175115207373,
+    "n_attack": 217
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.0,
+    "n_attack": 900
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "backdoor",
+    "d_dom": 0.0,
+    "n_attack": 227
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "dos",
+    "d_dom": 0.003809523809523818,
+    "n_attack": 252
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "exploit",
+    "d_dom": 0.0,
+    "n_attack": 204
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "recon",
+    "d_dom": 0.0,
+    "n_attack": 217
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.0,
+    "n_attack": 900
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "backdoor",
+    "d_dom": 0.0,
+    "n_attack": 227
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "dos",
+    "d_dom": 0.0022222222222222365,
+    "n_attack": 252
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "exploit",
+    "d_dom": 0.0,
+    "n_attack": 204
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "recon",
+    "d_dom": 0.0,
+    "n_attack": 217
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.07444444444444445,
+    "n_attack": 900
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "backdoor",
+    "d_dom": 0.0022222222222222365,
+    "n_attack": 229
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "dos",
+    "d_dom": 0.0022222222222222365,
+    "n_attack": 243
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "exploit",
+    "d_dom": 0.2836324786324787,
+    "n_attack": 208
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "recon",
+    "d_dom": 0.3601010101010101,
+    "n_attack": 220
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.0,
+    "n_attack": 900
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "backdoor",
+    "d_dom": 0.0,
+    "n_attack": 229
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "dos",
+    "d_dom": 0.0,
+    "n_attack": 243
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "exploit",
+    "d_dom": 0.0,
+    "n_attack": 208
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "recon",
+    "d_dom": 0.0,
+    "n_attack": 220
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.0,
+    "n_attack": 900
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "backdoor",
+    "d_dom": 0.0,
+    "n_attack": 229
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "dos",
+    "d_dom": 0.0011111111111110628,
+    "n_attack": 243
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "exploit",
+    "d_dom": 0.0025854700854700857,
+    "n_attack": 208
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "recon",
+    "d_dom": 0.0,
+    "n_attack": 220
+  }
+]

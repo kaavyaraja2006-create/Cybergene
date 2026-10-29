@@ -1,0 +1,5 @@
+name: calib_transfer
+data: {kind: synthetic, generator: shift, shift_args: {n_days: 5, per_day: 1500, seed: 1}}
+dedup: exact
+seeds: 0-1
+n_boot: 200

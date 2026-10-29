@@ -1,0 +1,9 @@
+# RQ6 controlled score-level study of label-free recalibration (no dataset needed)
+name: recal_study
+seeds: 0-4
+reps: 100
+alpha: 0.05
+n_cal: 2000
+n_win: 3000
+eps: [0.0, 0.02, 0.05, 0.10, 0.20]
+n_boot: 10000

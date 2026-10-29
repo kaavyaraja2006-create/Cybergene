@@ -1,0 +1,32 @@
+[
+  {
+    "scenario": "gamma|loc0.5|eps0.0",
+    "median_ratio_realised_over_predicted": 0.8842109259717331,
+    "n": 6
+  },
+  {
+    "scenario": "gamma|loc1.0|eps0.0",
+    "median_ratio_realised_over_predicted": 1.2336926390576142,
+    "n": 6
+  },
+  {
+    "scenario": "gamma|scale1.1|eps0.0",
+    "median_ratio_realised_over_predicted": 2.3584064394914317,
+    "n": 4
+  },
+  {
+    "scenario": "gamma|scale1.25|eps0.0",
+    "median_ratio_realised_over_predicted": 1.424005430667453,
+    "n": 6
+  },
+  {
+    "scenario": "gamma|scale1.5|eps0.0",
+    "median_ratio_realised_over_predicted": 1.2962482660031558,
+    "n": 6
+  },
+  {
+    "scenario": "gamma|scale2.0|eps0.0",
+    "median_ratio_realised_over_predicted": 2.017208075527329,
+    "n": 6
+  }
+]

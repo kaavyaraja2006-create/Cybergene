@@ -1,0 +1,16 @@
+/data/
+__pycache__/
+*.pyc
+.venv/
+send/
+paper/
+*.zip
+results/*/*/artifacts/
+results/mutation_policies/*/tables/generation_log.*
+
+results10/
+logs/
+extras_zip/
+final_zip/
+item3_zip/
+unsw_zip/

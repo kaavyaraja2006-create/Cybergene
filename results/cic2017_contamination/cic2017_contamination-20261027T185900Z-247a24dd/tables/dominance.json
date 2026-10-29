@@ -1,0 +1,1178 @@
+[
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.0015419955869667712,
+    "n_attack": 35186
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "Bot",
+    "d_dom": 0.006904640640705395,
+    "n_attack": 123
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "DDoS",
+    "d_dom": 0.001878245497735076,
+    "n_attack": 8122
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0018506242404153772,
+    "n_attack": 646
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "DoS Hulk",
+    "d_dom": 0.0015973071636994352,
+    "n_attack": 14238
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.0015467904098994678,
+    "n_attack": 333
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "DoS slowloris",
+    "d_dom": 0.0017125179538172164,
+    "n_attack": 352
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "FTP-Patator",
+    "d_dom": 0.031046293227267707,
+    "n_attack": 563
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "Infiltration",
+    "d_dom": 0.00027621257319632164,
+    "n_attack": 4
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "PortScan",
+    "d_dom": 0.08676807749004134,
+    "n_attack": 10288
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "SSH-Patator",
+    "d_dom": 0.0803502375428129,
+    "n_attack": 371
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.0915203915401378,
+    "n_attack": 94
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.17257761573306818,
+    "n_attack": 1
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 0,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.1640247746430359,
+    "n_attack": 51
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.010447985110840774,
+    "n_attack": 35186
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "Bot",
+    "d_dom": 0.1097560975609756,
+    "n_attack": 123
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "DDoS",
+    "d_dom": 0.010103782470348932,
+    "n_attack": 8122
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.018358558467959085,
+    "n_attack": 646
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "DoS Hulk",
+    "d_dom": 0.025550559285647423,
+    "n_attack": 14238
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.0009943652635068245,
+    "n_attack": 333
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "DoS slowloris",
+    "d_dom": 0.0005524251463926433,
+    "n_attack": 352
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "FTP-Patator",
+    "d_dom": 0.11649189230241186,
+    "n_attack": 563
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "Infiltration",
+    "d_dom": 0.0014363053806208947,
+    "n_attack": 4
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "PortScan",
+    "d_dom": 0.29857971323035026,
+    "n_attack": 10288
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "SSH-Patator",
+    "d_dom": 0.05854090968786929,
+    "n_attack": 371
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.13194557084323577,
+    "n_attack": 94
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.19746436857805771,
+    "n_attack": 1
+  },
+  {
+    "model": "pca",
+    "seed": 0,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.2169714753650881,
+    "n_attack": 51
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.04093619015100916,
+    "n_attack": 35186
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "Bot",
+    "d_dom": 0.12774764141410055,
+    "n_attack": 123
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "DDoS",
+    "d_dom": 0.0002485913158767339,
+    "n_attack": 8122
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0012705778367031462,
+    "n_attack": 646
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "DoS Hulk",
+    "d_dom": 0.12332353634224157,
+    "n_attack": 14238
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.027434129522296624,
+    "n_attack": 333
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "DoS slowloris",
+    "d_dom": 0.007153905645784997,
+    "n_attack": 352
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "FTP-Patator",
+    "d_dom": 0.03322837255551869,
+    "n_attack": 563
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "Infiltration",
+    "d_dom": 0.0007733952049496784,
+    "n_attack": 4
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "PortScan",
+    "d_dom": 0.2968444603613909,
+    "n_attack": 10288
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "SSH-Patator",
+    "d_dom": 0.4065030862846386,
+    "n_attack": 371
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.49238123447038884,
+    "n_attack": 94
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.21044635951828528,
+    "n_attack": 1
+  },
+  {
+    "model": "hbos",
+    "seed": 0,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.5576829339624481,
+    "n_attack": 51
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "ALL",
+    "d_dom": 0.0007709977934834411,
+    "n_attack": 35186
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "Bot",
+    "d_dom": 0.19787734005944624,
+    "n_attack": 123
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "DDoS",
+    "d_dom": 0.003618384708871991,
+    "n_attack": 8122
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0025135344160865936,
+    "n_attack": 646
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "DoS Hulk",
+    "d_dom": 0.0006755393641211249,
+    "n_attack": 14238
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.023091371119213333,
+    "n_attack": 333
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "DoS slowloris",
+    "d_dom": 0.01922439509446472,
+    "n_attack": 352
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "FTP-Patator",
+    "d_dom": 0.24118038044921297,
+    "n_attack": 563
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "Infiltration",
+    "d_dom": 0.000939122748867538,
+    "n_attack": 4
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "PortScan",
+    "d_dom": 0.33868711052094114,
+    "n_attack": 10288
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "SSH-Patator",
+    "d_dom": 0.14803378340348083,
+    "n_attack": 371
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.20763075433066047,
+    "n_attack": 94
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.19116672190918127,
+    "n_attack": 1
+  },
+  {
+    "model": "ecod",
+    "seed": 0,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.31820338344154375,
+    "n_attack": 51
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.0006044711124102431,
+    "n_attack": 35186
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "Bot",
+    "d_dom": 0.001988730527013538,
+    "n_attack": 122
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "DDoS",
+    "d_dom": 0.0009115014915479502,
+    "n_attack": 8138
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0017125179538172164,
+    "n_attack": 619
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "DoS Hulk",
+    "d_dom": 0.0011410642277991379,
+    "n_attack": 14266
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.0005524251463926433,
+    "n_attack": 328
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "DoS slowloris",
+    "d_dom": 0.0008562589769086637,
+    "n_attack": 365
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "FTP-Patator",
+    "d_dom": 0.026753425190216285,
+    "n_attack": 537
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "Infiltration",
+    "d_dom": 0.0035907634515522924,
+    "n_attack": 3
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "PortScan",
+    "d_dom": 0.06408265687889414,
+    "n_attack": 10266
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "SSH-Patator",
+    "d_dom": 0.06683116659914812,
+    "n_attack": 378
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.12069447137082734,
+    "n_attack": 106
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.19202298088608993,
+    "n_attack": 2
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 1,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.1585460170146945,
+    "n_attack": 56
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.003354609787041829,
+    "n_attack": 35186
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "Bot",
+    "d_dom": 0.0037012484808308654,
+    "n_attack": 122
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "DDoS",
+    "d_dom": 0.008316829139939141,
+    "n_attack": 8138
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0029972410870798827,
+    "n_attack": 619
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "DoS Hulk",
+    "d_dom": 0.015092862179196365,
+    "n_attack": 14266
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.004419401171141257,
+    "n_attack": 328
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "DoS slowloris",
+    "d_dom": 0.00452988620041983,
+    "n_attack": 365
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "FTP-Patator",
+    "d_dom": 0.08451394919787247,
+    "n_attack": 537
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "Infiltration",
+    "d_dom": 0.028781350127057737,
+    "n_attack": 3
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "PortScan",
+    "d_dom": 0.053679145017638596,
+    "n_attack": 10266
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "SSH-Patator",
+    "d_dom": 0.016093985931572963,
+    "n_attack": 378
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.18695265612264256,
+    "n_attack": 106
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.26740139211136893,
+    "n_attack": 2
+  },
+  {
+    "model": "pca",
+    "seed": 1,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.2875510993260413,
+    "n_attack": 56
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.03823885418917086,
+    "n_attack": 35186
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "Bot",
+    "d_dom": 0.12109113928177484,
+    "n_attack": 122
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "DDoS",
+    "d_dom": 0.00013810628659816082,
+    "n_attack": 8138
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0006076676610319298,
+    "n_attack": 619
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "DoS Hulk",
+    "d_dom": 0.11219250547193642,
+    "n_attack": 14266
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.010658100034762308,
+    "n_attack": 328
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "DoS slowloris",
+    "d_dom": 0.005772842779803389,
+    "n_attack": 365
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "FTP-Patator",
+    "d_dom": 0.016268920561263944,
+    "n_attack": 537
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "Infiltration",
+    "d_dom": 0.0062700254115567455,
+    "n_attack": 3
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "PortScan",
+    "d_dom": 0.29132948876426656,
+    "n_attack": 10266
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "SSH-Patator",
+    "d_dom": 0.41740016449993256,
+    "n_attack": 378
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.49861581019922746,
+    "n_attack": 106
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.4746160645232571,
+    "n_attack": 2
+  },
+  {
+    "model": "hbos",
+    "seed": 1,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.5738592420726991,
+    "n_attack": 56
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "ALL",
+    "d_dom": 0.00032825853921392145,
+    "n_attack": 35186
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "Bot",
+    "d_dom": 0.2083534832669517,
+    "n_attack": 122
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "DDoS",
+    "d_dom": 0.0025563816454308164,
+    "n_attack": 8138
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.001767760468456503,
+    "n_attack": 619
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "DoS Hulk",
+    "d_dom": 0.0003038338305160204,
+    "n_attack": 14266
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.019169152579825433,
+    "n_attack": 328
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "DoS slowloris",
+    "d_dom": 0.015771737929510588,
+    "n_attack": 365
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "FTP-Patator",
+    "d_dom": 0.24476800921408104,
+    "n_attack": 537
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "Infiltration",
+    "d_dom": 0.027427908518395716,
+    "n_attack": 3
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "PortScan",
+    "d_dom": 0.3359347359572462,
+    "n_attack": 10266
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "SSH-Patator",
+    "d_dom": 0.14921003204065852,
+    "n_attack": 378
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.215793939166526,
+    "n_attack": 106
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.19011711413103527,
+    "n_attack": 2
+  },
+  {
+    "model": "ecod",
+    "seed": 1,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.37729256435752956,
+    "n_attack": 56
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "ALL",
+    "d_dom": 0.0012681804252367979,
+    "n_attack": 35186
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "Bot",
+    "d_dom": 0.00317644459175781,
+    "n_attack": 128
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "DDoS",
+    "d_dom": 0.002859623756935936,
+    "n_attack": 8099
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0024030493868081315,
+    "n_attack": 643
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "DoS Hulk",
+    "d_dom": 0.002119096022308975,
+    "n_attack": 14216
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.0011048502927852866,
+    "n_attack": 341
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "DoS slowloris",
+    "d_dom": 0.0013534416086620205,
+    "n_attack": 337
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "FTP-Patator",
+    "d_dom": 0.02746791872201315,
+    "n_attack": 544
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "Infiltration",
+    "d_dom": 0.00035907634515519593,
+    "n_attack": 4
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "PortScan",
+    "d_dom": 0.06599874164357966,
+    "n_attack": 10324
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "SSH-Patator",
+    "d_dom": 0.07056649745012178,
+    "n_attack": 399
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.09748995458483789,
+    "n_attack": 95
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.3346867749419954,
+    "n_attack": 1
+  },
+  {
+    "model": "isolation_forest",
+    "seed": 2,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.17347505549361697,
+    "n_attack": 55
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "ALL",
+    "d_dom": 0.0012086878825430247,
+    "n_attack": 35186
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "Bot",
+    "d_dom": 0.0008010164622693772,
+    "n_attack": 128
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "DDoS",
+    "d_dom": 0.0038150280075252008,
+    "n_attack": 8099
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0225460338537814,
+    "n_attack": 643
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "DoS Hulk",
+    "d_dom": 0.01998264290759788,
+    "n_attack": 14216
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "DoS Slowhttptest",
+    "d_dom": 8.286377195887429e-05,
+    "n_attack": 341
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "DoS slowloris",
+    "d_dom": 0.00011048502927857307,
+    "n_attack": 337
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "FTP-Patator",
+    "d_dom": 0.0492734796935016,
+    "n_attack": 544
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "Infiltration",
+    "d_dom": 0.0006352889183515176,
+    "n_attack": 4
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "PortScan",
+    "d_dom": 0.06247581668491742,
+    "n_attack": 10324
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "SSH-Patator",
+    "d_dom": 0.02508737039815312,
+    "n_attack": 399
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.5719036570544691,
+    "n_attack": 95
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.29629322726770524,
+    "n_attack": 1
+  },
+  {
+    "model": "pca",
+    "seed": 2,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.7124139974488002,
+    "n_attack": 55
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "ALL",
+    "d_dom": 0.03858823883754702,
+    "n_attack": 35186
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "Bot",
+    "d_dom": 0.11357256794829296,
+    "n_attack": 128
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "DDoS",
+    "d_dom": 0.00016572754391774858,
+    "n_attack": 8099
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0009667440061871257,
+    "n_attack": 643
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "DoS Hulk",
+    "d_dom": 0.11437381319524506,
+    "n_attack": 14216
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.007707788805760507,
+    "n_attack": 341
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "DoS slowloris",
+    "d_dom": 0.0066291017567119415,
+    "n_attack": 337
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "FTP-Patator",
+    "d_dom": 0.020286391818908567,
+    "n_attack": 544
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "Infiltration",
+    "d_dom": 0.0006076676610319298,
+    "n_attack": 4
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "PortScan",
+    "d_dom": 0.28264883983656097,
+    "n_attack": 10324
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "SSH-Patator",
+    "d_dom": 0.41629014531688846,
+    "n_attack": 399
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.47741395251469737,
+    "n_attack": 95
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.9532648326151807,
+    "n_attack": 1
+  },
+  {
+    "model": "hbos",
+    "seed": 2,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.5675751549301433,
+    "n_attack": 55
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "ALL",
+    "d_dom": 0.0005800464037123421,
+    "n_attack": 35186
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "Bot",
+    "d_dom": 0.1831910838581372,
+    "n_attack": 128
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "DDoS",
+    "d_dom": 0.0034526571649541316,
+    "n_attack": 8099
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "DoS GoldenEye",
+    "d_dom": 0.0020439730416528246,
+    "n_attack": 643
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "DoS Hulk",
+    "d_dom": 0.0005800464037123421,
+    "n_attack": 14216
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "DoS Slowhttptest",
+    "d_dom": 0.021595125180186137,
+    "n_attack": 341
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "DoS slowloris",
+    "d_dom": 0.022156100593176742,
+    "n_attack": 337
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "FTP-Patator",
+    "d_dom": 0.24085452046247735,
+    "n_attack": 544
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "Infiltration",
+    "d_dom": 0.0007733952049496784,
+    "n_attack": 4
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "PortScan",
+    "d_dom": 0.3387253751835727,
+    "n_attack": 10324
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "SSH-Patator",
+    "d_dom": 0.14822293552907784,
+    "n_attack": 399
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "Web Attack - Brute Force",
+    "d_dom": 0.21911565456564852,
+    "n_attack": 95
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "Web Attack - Sql Injection",
+    "d_dom": 0.3196884322174346,
+    "n_attack": 1
+  },
+  {
+    "model": "ecod",
+    "seed": 2,
+    "family": "Web Attack - XSS",
+    "d_dom": 0.34130884583320775,
+    "n_attack": 55
+  }
+]

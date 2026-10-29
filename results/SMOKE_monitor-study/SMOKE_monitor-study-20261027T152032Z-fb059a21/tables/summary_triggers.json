@@ -1,0 +1,482 @@
+[
+  {
+    "trigger": "adwin",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "detection_rate",
+    "mean": 0.6388888888888888,
+    "ci_low": 0.30486111111111114,
+    "ci_high": 0.9458333333333337,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "delay_detected",
+    "mean": 634.3333333333334,
+    "ci_low": 211.41666666666669,
+    "ci_high": 1083.8583333333333,
+    "n_clusters": 5
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "detection_rate",
+    "mean": 0.8333333333333334,
+    "ci_low": 0.5833333333333334,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "delay_detected",
+    "mean": 505.7777777777778,
+    "ci_low": 194.9777777777778,
+    "ci_high": 787.8944444444447,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmless",
+    "eps": 0.0,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.5,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "adwin",
+    "kind": "harmless",
+    "eps": 0.1,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.5,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "detection_rate",
+    "mean": 0.8611111111111112,
+    "ci_low": 0.5833333333333334,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "delay_detected",
+    "mean": 397.2222222222222,
+    "ci_low": 241.66666666666663,
+    "ci_high": 547.5694444444446,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "detection_rate",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "delay_detected",
+    "mean": 319.4444444444444,
+    "ci_low": 222.08333333333331,
+    "ci_high": 402.84722222222223,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmless",
+    "eps": 0.0,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "cert_ks",
+    "kind": "harmless",
+    "eps": 0.1,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "detection_rate",
+    "mean": 0.5833333333333334,
+    "ci_low": 0.3326388888888889,
+    "ci_high": 0.8618055555555557,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "delay_detected",
+    "mean": 716.1666666666667,
+    "ci_low": 316.04833333333335,
+    "ci_high": 1216.9333333333332,
+    "n_clusters": 5
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "detection_rate",
+    "mean": 0.9722222222222223,
+    "ci_low": 0.9166666666666666,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "alarm_before_onset",
+    "mean": 0.027777777777777776,
+    "ci_low": 0.0,
+    "ci_high": 0.08333333333333333,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "delay_detected",
+    "mean": 271.0388888888889,
+    "ci_low": 159.88125,
+    "ci_high": 360.79333333333335,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmless",
+    "eps": 0.0,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "ddm_alert",
+    "kind": "harmless",
+    "eps": 0.1,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.75,
+    "ci_low": 0.6666666666666666,
+    "ci_high": 0.8333333333333334,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "detection_rate",
+    "mean": 0.9166666666666666,
+    "ci_low": 0.75,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "delay_detected",
+    "mean": 375.0,
+    "ci_low": 194.375,
+    "ci_high": 577.7777777777778,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "detection_rate",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "delay_detected",
+    "mean": 247.22222222222226,
+    "ci_low": 174.93055555555557,
+    "ci_high": 305.62499999999994,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmless",
+    "eps": 0.0,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "ks_test",
+    "kind": "harmless",
+    "eps": 0.1,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "detection_rate",
+    "mean": 0.9444444444444443,
+    "ci_low": 0.8333333333333334,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "delay_detected",
+    "mean": 424.2083333333333,
+    "ci_low": 184.91041666666663,
+    "ci_high": 682.1204861111112,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "detection_rate",
+    "mean": 0.9722222222222223,
+    "ci_low": 0.9166666666666666,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "alarm_before_onset",
+    "mean": 0.027777777777777776,
+    "ci_low": 0.0,
+    "ci_high": 0.08333333333333333,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "delay_detected",
+    "mean": 126.86666666666667,
+    "ci_low": 81.34513888888888,
+    "ci_high": 168.8998611111111,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmless",
+    "eps": 0.0,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "martingale",
+    "kind": "harmless",
+    "eps": 0.1,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "detection_rate",
+    "mean": 0.9722222222222223,
+    "ci_low": 0.9166666666666666,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmful",
+    "eps": 0.0,
+    "metric": "delay_detected",
+    "mean": 363.25555555555565,
+    "ci_low": 147.3875,
+    "ci_high": 662.49375,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "detection_rate",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "alarm_before_onset",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmful",
+    "eps": 0.1,
+    "metric": "delay_detected",
+    "mean": 226.0277777777778,
+    "ci_low": 134.70486111111111,
+    "ci_high": 308.3729166666667,
+    "n_clusters": 6
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmless",
+    "eps": 0.0,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  },
+  {
+    "trigger": "page_hinkley",
+    "kind": "harmless",
+    "eps": 0.1,
+    "metric": "alarm_rate_under_harmless_drift",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 2
+  }
+]

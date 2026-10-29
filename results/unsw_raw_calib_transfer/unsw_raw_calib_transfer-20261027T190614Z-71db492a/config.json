@@ -1,0 +1,61 @@
+{
+  "name": "unsw_raw_calib_transfer",
+  "data": {
+    "kind": "unsw",
+    "path": "data/UNSW-NB15/UNSW-NB15_1.csv",
+    "features_file": "data/UNSW-NB15/NUSW-NB15_features.csv",
+    "version": "UNSW-NB15 raw part 1",
+    "sample_n": 100000,
+    "sample_seed": 0
+  },
+  "dedup": "exact",
+  "dedup_first": true,
+  "port_mode": "onehot",
+  "standardize": true,
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "n_boot": 2000,
+  "max_fit_rows": 30000,
+  "alphas": [
+    0.01,
+    0.05
+  ],
+  "models": [
+    "isolation_forest",
+    "pca",
+    "hbos",
+    "ecod"
+  ],
+  "tuning": {
+    "grid": "random",
+    "n": 12,
+    "criterion": "pseudo_anomaly"
+  },
+  "methods": [
+    "empirical",
+    "conformal",
+    "conformal_pac"
+  ],
+  "scenarios": [
+    {
+      "kind": "random"
+    },
+    {
+      "kind": "lofo",
+      "min_support": 100
+    },
+    {
+      "kind": "temporal",
+      "n_blocks": 5,
+      "fit_blocks": [
+        0
+      ],
+      "label_blocks": [
+        1
+      ]
+    }
+  ]
+}

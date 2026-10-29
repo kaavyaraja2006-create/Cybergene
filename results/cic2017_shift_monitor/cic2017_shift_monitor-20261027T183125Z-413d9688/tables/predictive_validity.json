@@ -1,0 +1,26 @@
+[
+  {
+    "model": "isolation_forest",
+    "n_windows": 18,
+    "spearman_dplus_unlabeled_vs_inflation": 0.8004234345511153,
+    "spearman_dplus_oracle_vs_inflation": -0.062209075224179934
+  },
+  {
+    "model": "pca",
+    "n_windows": 18,
+    "spearman_dplus_unlabeled_vs_inflation": -0.14515450885641984,
+    "spearman_dplus_oracle_vs_inflation": 0.7257725442820994
+  },
+  {
+    "model": "hbos",
+    "n_windows": 18,
+    "spearman_dplus_unlabeled_vs_inflation": 0.48108351506699154,
+    "spearman_dplus_oracle_vs_inflation": -0.4271689832060356
+  },
+  {
+    "model": "ecod",
+    "n_windows": 18,
+    "spearman_dplus_unlabeled_vs_inflation": 0.4479053416140955,
+    "spearman_dplus_oracle_vs_inflation": 0.920694313317863
+  }
+]

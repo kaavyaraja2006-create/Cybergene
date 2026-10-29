@@ -1,0 +1,20 @@
+{
+  "seeds": [
+    0,
+    1
+  ],
+  "n_boot": 200,
+  "data": {
+    "kind": "synthetic",
+    "synthetic_args": {
+      "n": 2500,
+      "seed": 1,
+      "dup_frac": 0.03,
+      "near_dup_frac": 0.02
+    }
+  },
+  "n_sessions": 600,
+  "phases": 4,
+  "attacks_per_phase": 30,
+  "name": "SMOKE_sentinel-case"
+}

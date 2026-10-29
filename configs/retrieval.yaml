@@ -1,0 +1,5 @@
+name: retrieval_ablation
+seeds: 0-29
+n_store: 3000
+n_queries: 200
+n_boot: 10000

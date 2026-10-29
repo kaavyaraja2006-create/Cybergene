@@ -1,0 +1,15 @@
+# RQ4 contamination of the calibration set on cic2017
+name: cic2017_contamination
+data: {kind: cic2017, path: data/CIC-IDS2017, version: "state variant: GeneratedLabelledFlows or MachineLearningCSV", sample_n: 300000, sample_seed: 0}
+dedup: exact
+dedup_first: true
+port_mode: onehot
+standardize: true
+seeds: 0-9
+n_boot: 10000
+max_fit_rows: 50000
+alphas: [0.01, 0.05]
+models: [isolation_forest, pca, hbos, ecod, autoencoder, kitnet_style]
+tuning: {grid: random, n: 12, criterion: pseudo_anomaly}
+eps: [0.0, 0.005, 0.01, 0.02, 0.05, 0.10]
+methods: [empirical, conformal]

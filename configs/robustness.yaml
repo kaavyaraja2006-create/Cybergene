@@ -1,0 +1,9 @@
+name: robustness
+which: [drift, poisoning, adversarial]
+data: {kind: unsw, path: data/UNSW-NB15/UNSW-NB15_1.csv, version: "set-me", sample_n: 20000, sample_seed: 0, features_file: data/UNSW-NB15/NUSW-NB15_features.csv}
+dedup: exact
+seeds: 0-29
+drift: {windows: 5, models: [isolation_forest, lof, autoencoder]}
+poisoning: {n_store: 2000, n_queries: 200, k: 5, poison_rates: [0.0, 0.01, 0.05, 0.10, 0.20], poison_types: [mimic_wrong_action, random_false]}
+adversarial: {models: [isolation_forest, lof, autoencoder], epsilons: [0.0, 0.1, 0.25, 0.5], query_budget: 30}
+n_boot: 10000

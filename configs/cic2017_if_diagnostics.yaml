@@ -1,0 +1,7 @@
+name: cic2017_if_diagnostics
+data: {kind: cic2017, path: data/CIC-IDS2017, version: "set-me", sample_n: 200000, sample_seed: 0}
+dedup: none
+seeds: 0-4
+port_modes: [raw, separate_std, drop, onehot]
+contamination: 0.05
+top_k: 50

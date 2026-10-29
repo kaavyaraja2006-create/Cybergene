@@ -1,0 +1,5 @@
+model,delta,false_alarm_rate,n_streams
+isolation_forest,0.01,0.004,500
+pca,0.01,0.008,500
+hbos,0.01,0.008,500
+ecod,0.01,0.0,500

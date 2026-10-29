@@ -1,0 +1,8 @@
+name: unsw_sampleA_if_diagnostics
+data: {kind: unsw, path: data/UNSW-NB15/UNSW-NB15_1.csv, version: "set-me", sample_n: 20000, sample_seed: 0, features_file: data/UNSW-NB15/NUSW-NB15_features.csv}
+dedup: none               # diagnose the ORIGINAL data first; then rerun with --set dedup=exact
+seeds: 0-4
+port_modes: [raw, separate_std, drop, onehot, onehot_scaled]
+contamination: 0.05
+n_estimators: 200
+top_k: 50

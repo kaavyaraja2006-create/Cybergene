@@ -1,0 +1,92 @@
+{
+  "experiment_id": "SMOKE_shift-monitor-20261027T151306Z-ecd9807d",
+  "experiment": "SMOKE_shift-monitor",
+  "timestamp_utc": "2026-10-27T15:13:06.914213+00:00",
+  "git": {
+    "commit": "15a589bbef678b57cf2d69be20da844abe1fa109",
+    "dirty": true,
+    "note": null
+  },
+  "environment": {
+    "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (3)\\CYBERGENE_v2\\.venv\\Scripts\\python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "cpu": {
+      "model": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "logical_cores": 20,
+      "total_memory_bytes": 16873545728
+    },
+    "gpu": {
+      "gpus": [
+        "NVIDIA GeForce RTX 4050 Laptop GPU, 6141 MiB, 581.86"
+      ]
+    },
+    "packages": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pandas": "3.1.0",
+      "scikit-learn": "1.9.1",
+      "lightgbm": "4.7.0",
+      "xgboost": null,
+      "hnswlib": null,
+      "faiss-cpu": null,
+      "matplotlib": "3.11.2",
+      "PyYAML": "6.0.3",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1"
+    },
+    "env_threads": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    }
+  },
+  "dataset": {
+    "synthetic": true,
+    "sha256": null,
+    "path": null,
+    "version": "synthetic-shift-v1",
+    "generator_args": {
+      "n_days": 5,
+      "per_day": 1500,
+      "drift_per_day": 0.35,
+      "seed": 1,
+      "separation": 1.0,
+      "dup_frac": 0.0
+    }
+  },
+  "seeds": [
+    0,
+    1
+  ],
+  "cli_args": [
+    "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (3)\\CYBERGENE_v2\\cgresearch\\cli.py",
+    "shift-monitor",
+    "--smoke"
+  ],
+  "config_sha256": "ecd9807d1947a29b2464e414c181c1b18321051920564b80ad0195103a7be908",
+  "status": "completed",
+  "result_files": [
+    "tables/summary_policies.csv",
+    "tables/summary_policies.json",
+    "tables/summary_false_alarm.csv",
+    "tables/summary_false_alarm.json",
+    "tables/predictive_validity.csv",
+    "tables/predictive_validity.json",
+    "tables/per_window_policy.csv",
+    "tables/per_window_policy.json",
+    "tables/false_alarm_control.csv",
+    "tables/false_alarm_control.json"
+  ],
+  "dedup": {
+    "mode": "none",
+    "rows_before": 7500,
+    "rows_after": 7500,
+    "removed": 0,
+    "attack_before": 1500,
+    "attack_after": 1500,
+    "dedup_first": false
+  },
+  "runtime_seconds": 42.015
+}

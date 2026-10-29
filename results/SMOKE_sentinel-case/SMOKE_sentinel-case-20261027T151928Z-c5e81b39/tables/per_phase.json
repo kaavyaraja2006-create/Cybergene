@@ -1,0 +1,402 @@
+[
+  {
+    "seed": 0,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "original",
+    "fpr": 0.12666666666666668,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 0,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_static",
+    "fpr": 0.06,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_monitored",
+    "fpr": 0.06,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.06,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.06,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "original",
+    "fpr": 0.36666666666666664,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 0,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_static",
+    "fpr": 0.21666666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_monitored",
+    "fpr": 0.21666666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 1,
+    "tau": 0.1557190671993819
+  },
+  {
+    "seed": 0,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.21666666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 1,
+    "tau": 0.16458285373955822
+  },
+  {
+    "seed": 0,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.21666666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 1,
+    "tau": 0.1466235953953947
+  },
+  {
+    "seed": 0,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "original",
+    "fpr": 0.5766666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 0,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_static",
+    "fpr": 0.2633333333333333,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_monitored",
+    "fpr": 0.04666666666666667,
+    "recall": 0.2,
+    "recalibrations_so_far": 2,
+    "tau": 0.16990423982812342
+  },
+  {
+    "seed": 0,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.03333333333333333,
+    "recall": 0.2,
+    "recalibrations_so_far": 1,
+    "tau": 0.16458285373955822
+  },
+  {
+    "seed": 0,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.04666666666666667,
+    "recall": 0.2,
+    "recalibrations_so_far": 1,
+    "tau": 0.1466235953953947
+  },
+  {
+    "seed": 0,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "original",
+    "fpr": 0.6833333333333333,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 0,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_static",
+    "fpr": 0.29333333333333333,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": 0.06986989669312382
+  },
+  {
+    "seed": 0,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_monitored",
+    "fpr": 0.023333333333333334,
+    "recall": 0.23333333333333334,
+    "recalibrations_so_far": 2,
+    "tau": 0.16990423982812342
+  },
+  {
+    "seed": 0,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.023333333333333334,
+    "recall": 0.23333333333333334,
+    "recalibrations_so_far": 1,
+    "tau": 0.16458285373955822
+  },
+  {
+    "seed": 0,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.023333333333333334,
+    "recall": 0.23333333333333334,
+    "recalibrations_so_far": 1,
+    "tau": 0.1466235953953947
+  },
+  {
+    "seed": 1,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "original",
+    "fpr": 0.16666666666666666,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 1,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_static",
+    "fpr": 0.04666666666666667,
+    "recall": 0.1,
+    "recalibrations_so_far": 0,
+    "tau": 0.16140945958380282
+  },
+  {
+    "seed": 1,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_monitored",
+    "fpr": 0.04666666666666667,
+    "recall": 0.1,
+    "recalibrations_so_far": 1,
+    "tau": 0.1651598566055532
+  },
+  {
+    "seed": 1,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.04666666666666667,
+    "recall": 0.1,
+    "recalibrations_so_far": 1,
+    "tau": 0.21800982394652102
+  },
+  {
+    "seed": 1,
+    "phase": 0,
+    "drift_factor": 1.0,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.04666666666666667,
+    "recall": 0.1,
+    "recalibrations_so_far": 1,
+    "tau": 0.1654624232362531
+  },
+  {
+    "seed": 1,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "original",
+    "fpr": 0.3566666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 1,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_static",
+    "fpr": 0.03666666666666667,
+    "recall": 0.3,
+    "recalibrations_so_far": 0,
+    "tau": 0.16140945958380282
+  },
+  {
+    "seed": 1,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_monitored",
+    "fpr": 0.03,
+    "recall": 0.3,
+    "recalibrations_so_far": 2,
+    "tau": 0.17286594464893024
+  },
+  {
+    "seed": 1,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.0,
+    "recall": 0.3,
+    "recalibrations_so_far": 1,
+    "tau": 0.21800982394652102
+  },
+  {
+    "seed": 1,
+    "phase": 1,
+    "drift_factor": 1.15,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.03,
+    "recall": 0.3,
+    "recalibrations_so_far": 2,
+    "tau": 0.19493979845671636
+  },
+  {
+    "seed": 1,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "original",
+    "fpr": 0.5166666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 1,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_static",
+    "fpr": 0.03666666666666667,
+    "recall": 0.2,
+    "recalibrations_so_far": 0,
+    "tau": 0.16140945958380282
+  },
+  {
+    "seed": 1,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_monitored",
+    "fpr": 0.03333333333333333,
+    "recall": 0.2,
+    "recalibrations_so_far": 2,
+    "tau": 0.17286594464893024
+  },
+  {
+    "seed": 1,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.01,
+    "recall": 0.2,
+    "recalibrations_so_far": 1,
+    "tau": 0.21800982394652102
+  },
+  {
+    "seed": 1,
+    "phase": 2,
+    "drift_factor": 1.3224999999999998,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.02666666666666667,
+    "recall": 0.2,
+    "recalibrations_so_far": 2,
+    "tau": 0.19493979845671636
+  },
+  {
+    "seed": 1,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "original",
+    "fpr": 0.6266666666666667,
+    "recall": 1.0,
+    "recalibrations_so_far": 0,
+    "tau": NaN
+  },
+  {
+    "seed": 1,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_static",
+    "fpr": 0.05333333333333334,
+    "recall": 0.2,
+    "recalibrations_so_far": 0,
+    "tau": 0.16140945958380282
+  },
+  {
+    "seed": 1,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_monitored",
+    "fpr": 0.05,
+    "recall": 0.2,
+    "recalibrations_so_far": 3,
+    "tau": 0.19081421785541486
+  },
+  {
+    "seed": 1,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_monitored_bar",
+    "fpr": 0.013333333333333334,
+    "recall": 0.2,
+    "recalibrations_so_far": 1,
+    "tau": 0.21800982394652102
+  },
+  {
+    "seed": 1,
+    "phase": 3,
+    "drift_factor": 1.5208749999999998,
+    "agent": "cal_monitored_bar_hint",
+    "fpr": 0.023333333333333334,
+    "recall": 0.2,
+    "recalibrations_so_far": 2,
+    "tau": 0.19493979845671636
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "trigger": "martingale",
+    "mean_false_alarm_rate": 0.0,
+    "target": 0.01,
+    "n_cells": 2
+  },
+  {
+    "trigger": "cert_ks",
+    "mean_false_alarm_rate": 0.0,
+    "target": null,
+    "n_cells": 2
+  },
+  {
+    "trigger": "ks_test",
+    "mean_false_alarm_rate": 0.0,
+    "target": 0.01,
+    "n_cells": 2
+  },
+  {
+    "trigger": "adwin",
+    "mean_false_alarm_rate": 0.0,
+    "target": 0.01,
+    "n_cells": 2
+  },
+  {
+    "trigger": "page_hinkley",
+    "mean_false_alarm_rate": 0.125,
+    "target": 0.01,
+    "n_cells": 2
+  },
+  {
+    "trigger": "ddm_alert",
+    "mean_false_alarm_rate": 0.125,
+    "target": 0.01,
+    "n_cells": 2
+  }
+]

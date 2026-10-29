@@ -1,0 +1,42 @@
+[
+  {
+    "data_protocol": "dedup_after",
+    "scenario": "lofo",
+    "protocol": "random_labeled",
+    "vs": "v1_firstk_labeled",
+    "mean_cell_tau": 0.875,
+    "winner_flip_rate": 0.0,
+    "tau_of_avg_ranks": 1.0,
+    "n_cells": 8
+  },
+  {
+    "data_protocol": "dedup_after",
+    "scenario": "lofo",
+    "protocol": "random_labelfree",
+    "vs": "v1_firstk_labeled",
+    "mean_cell_tau": 1.0,
+    "winner_flip_rate": 0.0,
+    "tau_of_avg_ranks": 1.0,
+    "n_cells": 8
+  },
+  {
+    "data_protocol": "dedup_after",
+    "scenario": "temporal",
+    "protocol": "random_labeled",
+    "vs": "v1_firstk_labeled",
+    "mean_cell_tau": 0.888888888888889,
+    "winner_flip_rate": 0.0,
+    "tau_of_avg_ranks": 1.0,
+    "n_cells": 6
+  },
+  {
+    "data_protocol": "dedup_after",
+    "scenario": "temporal",
+    "protocol": "random_labelfree",
+    "vs": "v1_firstk_labeled",
+    "mean_cell_tau": 1.0,
+    "winner_flip_rate": 0.0,
+    "tau_of_avg_ranks": 1.0,
+    "n_cells": 6
+  }
+]

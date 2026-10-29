@@ -1,0 +1,11 @@
+name: mutation_policies
+seeds: 0-29
+episodes_per_reason: 20
+max_generations: 8      # paper uses a cap of 8
+direction_priors: [0.5, 0.7, 0.9]   # sensitivity sweep over the key modelling assumption
+reason_noise: 0.0
+detector_estimate_sd: 1.0
+false_success_rate: 0.05
+birth_penalty: 0.05
+policies: [retry, random, generic, targeted, fixed_rule, history_only, detector_only]
+n_boot: 10000

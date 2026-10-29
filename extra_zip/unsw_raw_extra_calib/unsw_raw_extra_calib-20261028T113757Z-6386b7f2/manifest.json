@@ -1,0 +1,110 @@
+{
+  "experiment_id": "unsw_raw_extra_calib-20261028T113757Z-6386b7f2",
+  "experiment": "unsw_raw_extra_calib",
+  "timestamp_utc": "2026-10-28T11:37:57.371226+00:00",
+  "git": {
+    "commit": "15a589bbef678b57cf2d69be20da844abe1fa109",
+    "dirty": true,
+    "note": null
+  },
+  "environment": {
+    "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Python314\\python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "cpu": {
+      "model": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "logical_cores": 20,
+      "total_memory_bytes": 16873545728
+    },
+    "gpu": {
+      "gpus": [
+        "NVIDIA GeForce RTX 4050 Laptop GPU, 6141 MiB, 581.86"
+      ]
+    },
+    "packages": {
+      "numpy": "2.5.2",
+      "scipy": "1.18.1",
+      "pandas": "2.3.3",
+      "scikit-learn": "1.9.1",
+      "lightgbm": "4.7.0",
+      "xgboost": "3.4.1",
+      "hnswlib": null,
+      "faiss-cpu": "1.15.1",
+      "matplotlib": "3.11.2",
+      "PyYAML": "6.0.3",
+      "psutil": "6.0.0",
+      "pytest": "8.3.3"
+    },
+    "env_threads": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    }
+  },
+  "dataset": {
+    "path": "data\\UNSW-NB15\\UNSW-NB15_1.csv",
+    "version": "UNSW-NB15 raw part 1",
+    "sha256": "60e88d10d7d8ac069bdde66d5bead0738897b8dff81ca20f3635f8b01bd0163a",
+    "files": {
+      "data\\UNSW-NB15\\UNSW-NB15_1.csv": "7d851bbeabd27894ce39c8e78835c73341fc946652fb7743b9eff193b55eb511"
+    },
+    "synthetic": false,
+    "n_rows": 700001,
+    "sample": null
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "cli_args": [
+    "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (4)\\CYBERGENE_v2\\cgresearch\\cli.py",
+    "calib-transfer",
+    "-c",
+    "configs\\v2_unsw_raw_calib_transfer.yaml",
+    "--seeds",
+    "0-4",
+    "--out",
+    "results10",
+    "--set",
+    "name=unsw_raw_extra_calib",
+    "--set",
+    "models=[autoencoder,lof]",
+    "--set",
+    "scenarios=[{kind: random},{kind: temporal, n_blocks: 5, fit_blocks: [0], label_blocks: [1]}]",
+    "--set",
+    "max_fit_rows=20000"
+  ],
+  "config_sha256": "6386b7f25c77da554183695161bd9f0aca0c7ca185df4e091438e7118419a2c2",
+  "status": "completed",
+  "result_files": [
+    "tables/summary.csv",
+    "tables/summary.json",
+    "tables/per_window.csv",
+    "tables/per_window.json",
+    "tables/tuning_trials.csv",
+    "tables/tuning_trials.json"
+  ],
+  "dedup": {
+    "mode": "exact",
+    "rows_before": 700001,
+    "rows_after": 636833,
+    "removed": 63168,
+    "attack_before": 22215,
+    "attack_after": 12350,
+    "rows_sampled": 100000,
+    "attack_sampled": 1939,
+    "dedup_first": true,
+    "rows_full_before": 700001,
+    "rows_full_after": 636833,
+    "attack_full_before": 22215,
+    "attack_full_after": 12350,
+    "sample_n": 100000
+  },
+  "identity_max_abs_error": 5.551115123125783e-17,
+  "ks_bound_holds_fraction": 1.0,
+  "runtime_seconds": 1099.589
+}

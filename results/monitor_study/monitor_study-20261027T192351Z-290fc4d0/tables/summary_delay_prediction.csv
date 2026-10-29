@@ -1,0 +1,13 @@
+scenario,median_ratio_realised_over_predicted,n
+gamma|loc0.5|eps0.0,1.4915005281660707,8
+gamma|loc1.0|eps0.0,1.102122491250511,8
+gamma|scale1.1|eps0.0,1.5555553501790857,8
+gamma|scale1.25|eps0.0,1.3782745488013446,8
+gamma|scale1.5|eps0.0,0.9917082013810278,8
+gamma|scale2.0|eps0.0,0.7021570388872489,8
+lognormal|loc0.5|eps0.0,1.1250694274441164,8
+lognormal|loc1.0|eps0.0,1.339569179413971,8
+lognormal|scale1.1|eps0.0,1.5126964822011695,8
+lognormal|scale1.25|eps0.0,1.5833438245849067,8
+lognormal|scale1.5|eps0.0,1.2141827776542065,8
+lognormal|scale2.0|eps0.0,0.9636878254355943,8

@@ -1,0 +1,14 @@
+# RQ2: feature-standardisation ablation (paired by seed)
+name: unsw_sampleA_standardization
+data: {kind: unsw, path: data/UNSW-NB15/UNSW-NB15_1.csv, version: "set-me", sample_n: 20000, sample_seed: 0, features_file: data/UNSW-NB15/NUSW-NB15_features.csv}
+dedup: exact
+port_mode: onehot
+legacy_contamination: [0.15]
+seeds: 0-29
+models: [isolation_forest, ocsvm, lof]
+target_fprs: [0.05]
+tune: false
+n_boot: 10000
+variants:
+  - {name: standardized, standardize: true}
+  - {name: unstandardized, standardize: false}

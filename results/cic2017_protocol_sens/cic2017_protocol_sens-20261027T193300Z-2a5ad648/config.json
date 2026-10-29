@@ -1,0 +1,40 @@
+{
+  "name": "cic2017_protocol_sens",
+  "data": {
+    "kind": "cic2017",
+    "path": "data/CIC-IDS2017",
+    "version": "state variant: GeneratedLabelledFlows or MachineLearningCSV",
+    "sample_n": 300000,
+    "sample_seed": 0
+  },
+  "dedup": "exact",
+  "dedup_first": true,
+  "port_mode": "onehot",
+  "standardize": true,
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "n_boot": 2000,
+  "max_fit_rows": 30000,
+  "alphas": [
+    0.01,
+    0.05
+  ],
+  "models": [
+    "isolation_forest",
+    "pca",
+    "hbos",
+    "ecod"
+  ],
+  "dedup_variants": [
+    {
+      "dedup_first": true
+    },
+    {
+      "dedup_first": false
+    }
+  ],
+  "alpha": 0.05
+}

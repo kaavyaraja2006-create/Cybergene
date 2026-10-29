@@ -1,0 +1,11 @@
+# Weak-label (attack category) retrieval on real flows; see experiments/retrieval_real.py for limits
+name: unsw_sampleB_retrieval_real
+data: {kind: unsw, path: data/UNSW-NB15/UNSW_NB15_training-set.csv, version: "set-me"}
+dedup: near
+near_dup: {time_window: 5.0, cos_threshold: 0.999, window: 50}
+port_mode: onehot
+seeds: 0-29
+n_store: 3000
+n_queries: 200
+min_category_support: 50
+n_boot: 10000

@@ -1,0 +1,6914 @@
+[
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9314622524711458
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9787256142230939
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9898079982805545
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9351365358177731
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9787275219392007
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9847687217437529
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918481505494571
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947271821620303
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9376799688487393
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9371190244014445
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9800744149051104
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9948191183619368
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989062809121726
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999398565508571
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998748635889524
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999959976489918
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999931656385187
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.794736147168891
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.800796373399409
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8105450971972239
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8173191178584005
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821290455986767
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8239726632529222
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9382917422383168
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9908095282559023
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915781082038204
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9354080773284366
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815822151988363
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9879219304219948
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9921071055588325
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9922463097072494
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9871608161633236
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9913208491964067
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9943483519334776
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9948953003591856
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991048390257782
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996350864479131
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996700898532227
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992103634592
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999969482646
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999965217845508
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7991712617257287
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.804940558007503
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8108531450928931
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8198529322007782
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8218559093731502
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8242516262026691
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9360841652791342
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9861850451237535
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9909631926711573
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9948774820389806
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9218119692658262
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9744011826768703
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904694024247942
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9909126326630586
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9803584048260339
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.98799681276142
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9932046778440993
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9949346231145204
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9988100860154823
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9993529878400185
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999495566063413
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999998321545517
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979004060285
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7931930058716243
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8025623260960939
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8124212583596646
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169838847221104
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8204635508899648
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8230563178943231
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9233258299246363
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9763300179371242
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896725374671018
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9338423814175874
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9788905208501827
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9815089064104888
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990904926649647
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9937937589105335
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9379909994343181
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402616660643153
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9776149679218051
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9933229264882957
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991429094251885
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995714928592869
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998616133352098
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992130337276
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999988555992
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7968901760895284
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8022356786359515
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8123397968601329
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8187270939790835
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.822184943671861
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8249671845364026
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9386057440697975
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917693169755919
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919127329003604
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9365312822839276
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9813458670640123
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888802085326498
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9919652902692938
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9924935182055121
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9874763011382204
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9918787159685267
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9947596408014634
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9952994294744004
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989061710496973
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99932721288263
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998807885332774
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999979213867096
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999963070186704
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.796540043999433
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8016520761975368
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8119407492658655
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8171799633006842
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.820666612220655
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8237003332501187
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:Bot",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:DDoS",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:DoS GoldenEye",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:DoS Hulk",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:DoS Slowhttptest",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:DoS slowloris",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:FTP-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:PortScan",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:SSH-Patator",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.916306152191193
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869189092924258
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904988474754964
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935804727403061
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.93196555802856
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9774093625881723
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910326772535519
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915891810443384
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9809466306436155
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9868034419236011
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991238640403163
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944402538013607
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9989524601540705
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995170796537491
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999967577599925
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999710085135
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999999885559923
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7949687222143305
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8024561680461793
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8104429369207142
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8169229472877035
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.821316608214947
+  },
+  {
+    "fold": "lofo:Web Attack - Brute Force",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8238572588261407
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9449079391867579
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9825936341368983
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9913905087814575
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9424521558047922
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9855220708139868
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9883814937737929
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9920852887337496
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9951071243041686
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9461570020932304
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9413036817495188
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9839731252781081
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9946929996650988
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991695210587728
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997104683698019
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999754737060348
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999966625612642
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7925357625258662
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7982420842303493
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8140362061159263
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8168068235705982
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8190968992385899
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8198286732528092
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9443964290732036
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9927689627059778
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9928370873803836
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9402271848877838
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9859505683128975
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9905777260270152
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.993078596583445
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9934779955678814
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896496781580116
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9931701962233347
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.995837931660657
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9958652379775861
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999399994840729
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997727578183419
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999856341960549
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999971705857651
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7878626074267199
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8019880381679936
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8107171903242105
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8162042147857597
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8193675704591882
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8201953187687225
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9235692026177261
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9877145422747226
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9909989136178283
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.5, 'max_samples': 1.0, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935886249588711
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 'auto', 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9152943725392211
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9790628003518465
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 200}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910878390731916
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 0.75, 'max_samples': 0.5, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9916217446001653
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.1, 'n_estimators': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9807882208987619
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.25, 'n_estimators': 500}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9883925574184813
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 0.5, 'n_estimators': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9908103306895173
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "isolation_forest",
+    "params": "{'max_features': 1.0, 'max_samples': 1.0, 'n_estimators': 300}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9936815793307635
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.1}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991065119088564
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9995467645302487
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.3}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997618705710494
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999992309073527
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.7}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "pca",
+    "params": "{'frac': 0.9}",
+    "criterion": "pseudo_anomaly",
+    "score": 1.0
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.7896818643325085
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8029122758532399
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8110043793969873
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 30}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8156515405758322
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8181268687892946
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "hbos",
+    "params": "{'n_bins': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.8197232581688505
+  }
+]

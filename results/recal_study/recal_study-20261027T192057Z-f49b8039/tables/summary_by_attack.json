@@ -1,0 +1,3902 @@
+[
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3309786666666663,
+    "ci_low": 1.1293270166666665,
+    "ci_high": 1.5432990499999995,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.5022679166666667,
+    "ci_low": 0.3866608541666666,
+    "ci_high": 0.6357249583333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2366519999999999,
+    "ci_low": 1.0417736333333332,
+    "ci_high": 1.4437015833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.4823025,
+    "ci_low": 0.3679618645833333,
+    "ci_high": 0.6151820625,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1139653333333333,
+    "ci_low": 0.9256376166666667,
+    "ci_high": 1.3150270666666661,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.4558966666666667,
+    "ci_low": 0.3436604895833333,
+    "ci_high": 0.5882589999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.91339,
+    "ci_low": 0.7385126666666665,
+    "ci_high": 1.1055120833333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.4030754166666667,
+    "ci_low": 0.29822863541666667,
+    "ci_high": 0.5301178854166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.5758893333333333,
+    "ci_low": 0.4288575,
+    "ci_high": 0.7440264666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.2817304166666667,
+    "ci_low": 0.20358953125,
+    "ci_high": 0.399668875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3368566666666666,
+    "ci_low": 1.1365758166666666,
+    "ci_high": 1.548157783333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.04743916666666666,
+    "ci_low": 0.029432604166666668,
+    "ci_high": 0.07025806249999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3367786666666666,
+    "ci_low": 1.1381435833333333,
+    "ci_high": 1.5502081666666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.0461075,
+    "ci_low": 0.0294573125,
+    "ci_high": 0.06630270833333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3484713333333331,
+    "ci_low": 1.1558124,
+    "ci_high": 1.5569959166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.045135000000000015,
+    "ci_low": 0.030041239583333337,
+    "ci_high": 0.062498041666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.351658,
+    "ci_low": 1.168535183333333,
+    "ci_high": 1.549595283333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.043429166666666665,
+    "ci_low": 0.030421010416666668,
+    "ci_high": 0.05755004166666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3957279999999999,
+    "ci_low": 1.192748533333333,
+    "ci_high": 1.6101243666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.042641250000000006,
+    "ci_low": 0.03200627083333333,
+    "ci_high": 0.05375266666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3182666666666665,
+    "ci_low": 1.1178303666666662,
+    "ci_high": 1.5292921666666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9319108333333334,
+    "ci_low": 0.8703743333333334,
+    "ci_high": 0.9815879166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.210764,
+    "ci_low": 1.0109184166666665,
+    "ci_high": 1.4211676833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9224691666666666,
+    "ci_low": 0.8554243124999998,
+    "ci_high": 0.9770354166666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.058406666666667,
+    "ci_low": 0.8667992666666666,
+    "ci_high": 1.2610213166666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9126175,
+    "ci_low": 0.8419166562499999,
+    "ci_high": 0.9724017291666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.7932173333333331,
+    "ci_low": 0.6214232999999999,
+    "ci_high": 0.9819103666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.8830204166666665,
+    "ci_low": 0.8015816562500002,
+    "ci_high": 0.9546351666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.35680066666666665,
+    "ci_low": 0.25426335,
+    "ci_high": 0.4705322,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_affine",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.7913145833333333,
+    "ci_low": 0.6851249270833333,
+    "ci_high": 0.8950584583333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.260262,
+    "ci_low": 1.0863073333333333,
+    "ci_high": 1.4565822166666669,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.49325625000000006,
+    "ci_low": 0.3784672291666667,
+    "ci_high": 0.628510875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1721359999999998,
+    "ci_low": 1.00183985,
+    "ci_high": 1.364912433333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.4724429166666668,
+    "ci_low": 0.36028839583333344,
+    "ci_high": 0.6058673958333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0512113333333333,
+    "ci_low": 0.8806693166666666,
+    "ci_high": 1.2449571499999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.4411191666666666,
+    "ci_low": 0.33268943749999996,
+    "ci_high": 0.5716251458333331,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.8578266666666665,
+    "ci_low": 0.6790437666666667,
+    "ci_high": 1.0601942666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.3775091666666667,
+    "ci_low": 0.28392109375,
+    "ci_high": 0.5000259583333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.5546526666666666,
+    "ci_low": 0.3580372833333333,
+    "ci_high": 0.7798033833333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.23707916666666662,
+    "ci_low": 0.16882140625000006,
+    "ci_high": 0.33012520833333325,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2604626666666663,
+    "ci_low": 1.0916003166666666,
+    "ci_high": 1.4534740666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.0426025,
+    "ci_low": 0.027577427083333335,
+    "ci_high": 0.060960135416666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2719546666666666,
+    "ci_low": 1.1035256166666665,
+    "ci_high": 1.4659199333333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.04154041666666667,
+    "ci_low": 0.028104708333333332,
+    "ci_high": 0.05726757291666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.277724,
+    "ci_low": 1.1043772833333332,
+    "ci_high": 1.4769824166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.04035333333333333,
+    "ci_low": 0.028254052083333342,
+    "ci_high": 0.05410222916666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2896333333333334,
+    "ci_low": 1.1147845333333333,
+    "ci_high": 1.4890054833333328,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.0396225,
+    "ci_low": 0.028836093750000003,
+    "ci_high": 0.051379583333333326,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3666659999999997,
+    "ci_low": 1.1725653166666665,
+    "ci_high": 1.577035366666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.0412625,
+    "ci_low": 0.031029541666666674,
+    "ci_high": 0.052364333333333325,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.251442,
+    "ci_low": 1.0814342666666665,
+    "ci_high": 1.445057983333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.93093625,
+    "ci_low": 0.8692137187499999,
+    "ci_high": 0.9805659583333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1310406666666668,
+    "ci_low": 0.9566338666666665,
+    "ci_high": 1.329404033333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9204408333333333,
+    "ci_low": 0.8536427291666667,
+    "ci_high": 0.9756166666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9570986666666665,
+    "ci_low": 0.7904146166666667,
+    "ci_high": 1.1473444833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9083741666666668,
+    "ci_low": 0.8383971354166667,
+    "ci_high": 0.9675329166666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6663219999999999,
+    "ci_low": 0.5135020166666666,
+    "ci_high": 0.8423770166666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.8701525,
+    "ci_low": 0.7883861979166666,
+    "ci_high": 0.9437873958333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.197898,
+    "ci_low": 0.13694048333333333,
+    "ci_high": 0.27235118333333336,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.7139874999999999,
+    "ci_low": 0.5945304583333334,
+    "ci_high": 0.8351466145833334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.060398,
+    "ci_low": 1.0043266000000002,
+    "ci_high": 1.1236786166666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.43644000000000005,
+    "ci_low": 0.3224378645833333,
+    "ci_high": 0.5720189166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0421880000000001,
+    "ci_low": 0.9657084499999999,
+    "ci_high": 1.1236912333333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.43144416666666674,
+    "ci_low": 0.32317664583333333,
+    "ci_high": 0.5619525833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0456053333333333,
+    "ci_low": 0.8781697666666666,
+    "ci_high": 1.2360347833333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.43796999999999997,
+    "ci_low": 0.3312753125,
+    "ci_high": 0.5675970937499999,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.8578266666666665,
+    "ci_low": 0.6790437666666667,
+    "ci_high": 1.0601942666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.3775091666666667,
+    "ci_low": 0.28392109375,
+    "ci_high": 0.5000259583333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.5546526666666666,
+    "ci_low": 0.3580372833333333,
+    "ci_high": 0.7798033833333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.23707916666666662,
+    "ci_low": 0.16882140625000006,
+    "ci_high": 0.33012520833333325,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0629399999999998,
+    "ci_low": 1.0098786666666666,
+    "ci_high": 1.1232053666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.03398333333333333,
+    "ci_low": 0.022618666666666665,
+    "ci_high": 0.050817916666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.192522,
+    "ci_low": 1.0844928666666667,
+    "ci_high": 1.3121247166666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.03832000000000001,
+    "ci_low": 0.026296114583333332,
+    "ci_high": 0.05305351041666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.277724,
+    "ci_low": 1.1043772833333332,
+    "ci_high": 1.4769824166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.04035333333333333,
+    "ci_low": 0.028254052083333342,
+    "ci_high": 0.05410222916666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2896333333333334,
+    "ci_low": 1.1147845333333333,
+    "ci_high": 1.4890054833333328,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.0396225,
+    "ci_low": 0.028836093750000003,
+    "ci_high": 0.051379583333333326,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3666659999999997,
+    "ci_low": 1.1725653166666665,
+    "ci_high": 1.577035366666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.0412625,
+    "ci_low": 0.031029541666666674,
+    "ci_high": 0.052364333333333325,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0520253333333334,
+    "ci_low": 0.9998117833333333,
+    "ci_high": 1.1106879166666663,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9087358333333333,
+    "ci_low": 0.8403560520833332,
+    "ci_high": 0.9680362500000002,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9113839999999999,
+    "ci_low": 0.8440940666666665,
+    "ci_high": 0.9850176833333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.8888004166666666,
+    "ci_low": 0.81164815625,
+    "ci_high": 0.9574904166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.8795206666666665,
+    "ci_low": 0.7686844666666667,
+    "ci_high": 1.0114889500000002,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.8903587500000002,
+    "ci_low": 0.8208981041666668,
+    "ci_high": 0.95183115625,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6663219999999999,
+    "ci_low": 0.5135020166666666,
+    "ci_high": 0.8423770166666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.8701525,
+    "ci_low": 0.7883861979166666,
+    "ci_high": 0.9437873958333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.197898,
+    "ci_low": 0.13694048333333333,
+    "ci_high": 0.27235118333333336,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_guard",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.7139874999999999,
+    "ci_low": 0.5945304583333334,
+    "ci_high": 0.8351466145833334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.260262,
+    "ci_low": 1.0863073333333333,
+    "ci_high": 1.4565822166666669,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.49325625000000006,
+    "ci_low": 0.3784672291666667,
+    "ci_high": 0.628510875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2358566666666668,
+    "ci_low": 1.0647441333333332,
+    "ci_high": 1.4290684500000002,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.48519833333333334,
+    "ci_low": 0.37293579166666657,
+    "ci_high": 0.6180922916666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2038313333333335,
+    "ci_low": 1.0259519166666664,
+    "ci_high": 1.4020891833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.4747491666666666,
+    "ci_low": 0.3650868854166666,
+    "ci_high": 0.6054423958333331,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1434986666666667,
+    "ci_low": 0.9566981166666665,
+    "ci_high": 1.348451833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.4544458333333334,
+    "ci_low": 0.35088887500000004,
+    "ci_high": 0.5796890729166665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0341906666666665,
+    "ci_low": 0.7934169333333335,
+    "ci_high": 1.2819568499999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.3930129166666667,
+    "ci_low": 0.30940703125,
+    "ci_high": 0.50582190625,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2604626666666663,
+    "ci_low": 1.0916003166666666,
+    "ci_high": 1.4534740666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.0426025,
+    "ci_low": 0.027577427083333335,
+    "ci_high": 0.060960135416666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3395359999999996,
+    "ci_low": 1.1692721333333331,
+    "ci_high": 1.534835683333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.04426666666666667,
+    "ci_low": 0.030099031249999998,
+    "ci_high": 0.06088797916666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.461285333333333,
+    "ci_low": 1.2852089499999997,
+    "ci_high": 1.6601171999999995,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.047579166666666665,
+    "ci_low": 0.033997447916666666,
+    "ci_high": 0.0628086770833333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.671734,
+    "ci_low": 1.4847141833333335,
+    "ci_high": 1.873814833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.05397958333333334,
+    "ci_low": 0.04125170833333334,
+    "ci_high": 0.06757740625,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 2.2653146666666664,
+    "ci_low": 1.9929672,
+    "ci_high": 2.5077726999999994,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.07531333333333333,
+    "ci_low": 0.06302081250000001,
+    "ci_high": 0.08836290625000001,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.251442,
+    "ci_low": 1.0814342666666665,
+    "ci_high": 1.445057983333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.93093625,
+    "ci_low": 0.8692137187499999,
+    "ci_high": 0.9805659583333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1935873333333333,
+    "ci_low": 1.0192940166666666,
+    "ci_high": 1.3912570333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9251112499999999,
+    "ci_low": 0.860254875,
+    "ci_high": 0.9779704374999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1132193333333333,
+    "ci_low": 0.9392462333333331,
+    "ci_high": 1.3120106666666669,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9216920833333333,
+    "ci_low": 0.8563084687500001,
+    "ci_high": 0.9756441145833332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.940908,
+    "ci_low": 0.7752263833333333,
+    "ci_high": 1.1324859999999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.9055491666666665,
+    "ci_low": 0.8355750104166665,
+    "ci_high": 0.9655745833333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6119766666666667,
+    "ci_low": 0.46928109999999995,
+    "ci_high": 0.7751155833333331,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_auto_hint",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.8613000000000001,
+    "ci_low": 0.7781838020833333,
+    "ci_high": 0.9375302083333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2544126666666666,
+    "ci_low": 1.0787043999999997,
+    "ci_high": 1.4536707333333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.4923320833333333,
+    "ci_low": 0.37773742708333335,
+    "ci_high": 0.6274917291666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1697799999999998,
+    "ci_low": 0.9943208333333331,
+    "ci_high": 1.3688012499999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.4714316666666667,
+    "ci_low": 0.3590511354166667,
+    "ci_high": 0.6046439166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0529086666666665,
+    "ci_low": 0.8755056499999997,
+    "ci_high": 1.2550876333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.4394854166666667,
+    "ci_low": 0.33239110416666673,
+    "ci_high": 0.5681588437500001,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.8636706666666665,
+    "ci_low": 0.6733448666666667,
+    "ci_high": 1.0785391166666662,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.3759025,
+    "ci_low": 0.2839191875,
+    "ci_high": 0.49623756249999995,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.5670793333333333,
+    "ci_low": 0.3556188833333333,
+    "ci_high": 0.8072170499999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.2314729166666667,
+    "ci_low": 0.16903857291666669,
+    "ci_high": 0.31031930208333336,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.255149333333333,
+    "ci_low": 1.0833998500000002,
+    "ci_high": 1.4500802999999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.042555,
+    "ci_low": 0.02739564583333334,
+    "ci_high": 0.061178166666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2667666666666662,
+    "ci_low": 1.0976812666666664,
+    "ci_high": 1.46235,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.04143166666666666,
+    "ci_low": 0.02793015625000001,
+    "ci_high": 0.0571443125,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2710153333333334,
+    "ci_low": 1.0976655666666668,
+    "ci_high": 1.4686602999999996,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.04019791666666666,
+    "ci_low": 0.028117812499999992,
+    "ci_high": 0.05396443749999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2875193333333332,
+    "ci_low": 1.113203733333333,
+    "ci_high": 1.4861738499999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.03956291666666667,
+    "ci_low": 0.028688208333333333,
+    "ci_high": 0.05153069791666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.360480666666667,
+    "ci_low": 1.17261665,
+    "ci_high": 1.5693956833333331,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.041354166666666664,
+    "ci_low": 0.03088252083333334,
+    "ci_high": 0.052776260416666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2508079999999997,
+    "ci_low": 1.0772903333333335,
+    "ci_high": 1.4474001499999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9307762500000002,
+    "ci_low": 0.8688570833333334,
+    "ci_high": 0.9807169583333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1324246666666664,
+    "ci_low": 0.9631794833333333,
+    "ci_high": 1.3246158666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9216175000000001,
+    "ci_low": 0.8560483333333334,
+    "ci_high": 0.9758025,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9526106666666667,
+    "ci_low": 0.7862095833333334,
+    "ci_high": 1.142775616666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9092412500000001,
+    "ci_low": 0.8398202604166667,
+    "ci_high": 0.9683139791666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6712413333333332,
+    "ci_low": 0.5154843499999999,
+    "ci_high": 0.8495430666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.8736033333333333,
+    "ci_low": 0.7948422395833333,
+    "ci_high": 0.9451894375,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.17886799999999994,
+    "ci_low": 0.12511051666666662,
+    "ci_high": 0.24270139999999996,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_local",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.7023679166666666,
+    "ci_low": 0.5841987187500002,
+    "ci_high": 0.8215013125,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7749613333333332,
+    "ci_low": 1.2793536666666667,
+    "ci_high": 2.299019833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.55816625,
+    "ci_low": 0.4299035625,
+    "ci_high": 0.6952948541666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7420826666666662,
+    "ci_low": 1.252690883333333,
+    "ci_high": 2.2580700499999993,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.5552325,
+    "ci_low": 0.4247311354166666,
+    "ci_high": 0.6948751875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7059846666666663,
+    "ci_low": 1.2316671166666666,
+    "ci_high": 2.2027583166666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.5513366666666666,
+    "ci_low": 0.4210892395833334,
+    "ci_high": 0.69054396875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.6257179999999996,
+    "ci_low": 1.1739123666666667,
+    "ci_high": 2.0960845833333326,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.5393379166666666,
+    "ci_low": 0.41082784375,
+    "ci_high": 0.6780719479166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.4558193333333334,
+    "ci_low": 1.0463357333333334,
+    "ci_high": 1.8843633833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.5094391666666668,
+    "ci_low": 0.3828173020833333,
+    "ci_high": 0.64598878125,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7761226666666665,
+    "ci_low": 1.2797836666666662,
+    "ci_high": 2.3011203166666663,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.05321083333333334,
+    "ci_low": 0.03675519791666666,
+    "ci_high": 0.07030545833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7851940000000002,
+    "ci_low": 1.2840776999999999,
+    "ci_high": 2.3151671666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.05333375,
+    "ci_low": 0.03673117708333333,
+    "ci_high": 0.07056610416666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7776640000000001,
+    "ci_low": 1.2776108,
+    "ci_high": 2.3023472666666662,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.05273833333333333,
+    "ci_low": 0.03636970833333333,
+    "ci_high": 0.06947930208333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.783476,
+    "ci_low": 1.2784068000000002,
+    "ci_high": 2.3216659,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.05299458333333333,
+    "ci_low": 0.03659239583333334,
+    "ci_high": 0.06982408333333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7948313333333334,
+    "ci_low": 1.2875343833333335,
+    "ci_high": 2.3334059333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.05322583333333333,
+    "ci_low": 0.036779374999999996,
+    "ci_high": 0.07000566666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7679540000000002,
+    "ci_low": 1.2713093333333334,
+    "ci_high": 2.29126795,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9591991666666667,
+    "ci_low": 0.9262406458333333,
+    "ci_high": 0.9875108333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7482526666666665,
+    "ci_low": 1.2612777,
+    "ci_high": 2.2653404833333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9583766666666667,
+    "ci_low": 0.9250808645833334,
+    "ci_high": 0.9869725,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7015626666666668,
+    "ci_low": 1.2301460666666668,
+    "ci_high": 2.1972698166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9554383333333333,
+    "ci_low": 0.92006234375,
+    "ci_high": 0.9862881875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.6017713333333334,
+    "ci_low": 1.1618076333333334,
+    "ci_high": 2.055189883333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.9497062499999999,
+    "ci_low": 0.9102854062499998,
+    "ci_high": 0.9836888541666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3986360000000002,
+    "ci_low": 1.0168988833333334,
+    "ci_high": 1.78773775,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_location",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.9350808333333334,
+    "ci_low": 0.8858004479166666,
+    "ci_high": 0.9777167708333331,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.6837979999999995,
+    "ci_low": 1.4425788166666664,
+    "ci_high": 1.920862683333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.5467895833333334,
+    "ci_low": 0.4195315104166667,
+    "ci_high": 0.6884724166666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.5584793333333333,
+    "ci_low": 1.3277259833333332,
+    "ci_high": 1.7882128166666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.5273004166666666,
+    "ci_low": 0.4005286041666667,
+    "ci_high": 0.6695104166666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.379046,
+    "ci_low": 1.1649311999999998,
+    "ci_high": 1.5962433166666663,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.49785958333333336,
+    "ci_low": 0.3719441041666666,
+    "ci_high": 0.6413148749999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0968993333333334,
+    "ci_low": 0.9151275166666667,
+    "ci_high": 1.2798399333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.4452441666666666,
+    "ci_low": 0.3221726145833333,
+    "ci_high": 0.5893962604166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6410893333333333,
+    "ci_low": 0.5105634166666668,
+    "ci_high": 0.7778790666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.3328108333333333,
+    "ci_low": 0.21565534374999998,
+    "ci_high": 0.48156115624999996,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7008579999999998,
+    "ci_low": 1.4624577166666666,
+    "ci_high": 1.9374740166666669,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.05722416666666665,
+    "ci_low": 0.041487072916666666,
+    "ci_high": 0.07520183333333331,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.698648,
+    "ci_low": 1.4535545166666666,
+    "ci_high": 1.9394770666666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.05586624999999999,
+    "ci_low": 0.04146991666666667,
+    "ci_high": 0.07124269791666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7283146666666664,
+    "ci_low": 1.4751613999999997,
+    "ci_high": 1.9756160999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.055328749999999996,
+    "ci_low": 0.04252485416666667,
+    "ci_high": 0.06825709375,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7547033333333337,
+    "ci_low": 1.4848966,
+    "ci_high": 2.0169701999999994,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.054472083333333324,
+    "ci_low": 0.042969489583333326,
+    "ci_high": 0.06631934375,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.8482500000000002,
+    "ci_low": 1.5261885499999999,
+    "ci_high": 2.1477352499999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.05625625000000001,
+    "ci_low": 0.04449551041666666,
+    "ci_high": 0.06838158333333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.6695419999999999,
+    "ci_low": 1.4376085499999998,
+    "ci_high": 1.901821933333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9399766666666667,
+    "ci_low": 0.8782103333333333,
+    "ci_high": 0.9870645833333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.5263293333333332,
+    "ci_low": 1.2914342,
+    "ci_high": 1.7605039499999995,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9303904166666667,
+    "ci_low": 0.8624925,
+    "ci_high": 0.9838071145833334,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.317636,
+    "ci_low": 1.0962418166666665,
+    "ci_high": 1.546602683333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.918505,
+    "ci_low": 0.8468919687500001,
+    "ci_high": 0.9775166666666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9583533333333333,
+    "ci_low": 0.7623440666666665,
+    "ci_high": 1.1603146666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.8847195833333333,
+    "ci_low": 0.7997119583333333,
+    "ci_high": 0.957826875,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.3980620000000001,
+    "ci_low": 0.2831284,
+    "ci_high": 0.5241401499999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "bar_loglinear",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.7865549999999999,
+    "ci_low": 0.6717368020833333,
+    "ci_high": 0.8968047604166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9962859999999999,
+    "ci_low": 0.9905579999999999,
+    "ci_high": 1.0018195,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.4286491666666666,
+    "ci_low": 0.31599085416666667,
+    "ci_high": 0.5654860520833331,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.8550919999999999,
+    "ci_low": 0.8026997999999999,
+    "ci_high": 0.8968408999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.39667333333333327,
+    "ci_low": 0.2902782083333334,
+    "ci_high": 0.5279315312500001,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.7009353333333334,
+    "ci_low": 0.6034377999999999,
+    "ci_high": 0.7799560166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.33365500000000003,
+    "ci_low": 0.2603828020833333,
+    "ci_high": 0.42363535416666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.5427986666666667,
+    "ci_low": 0.45019426666666673,
+    "ci_high": 0.6244855666666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.25406708333333333,
+    "ci_low": 0.21773971874999998,
+    "ci_high": 0.29445310416666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.3634586666666666,
+    "ci_low": 0.2887845333333333,
+    "ci_high": 0.43869589999999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.17843791666666664,
+    "ci_low": 0.16365819791666666,
+    "ci_high": 0.19325385416666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0022739999999999,
+    "ci_low": 0.9973099499999999,
+    "ci_high": 1.0071181333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.029512083333333328,
+    "ci_low": 0.02161205208333333,
+    "ci_high": 0.04042289583333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0045113333333335,
+    "ci_low": 0.99654725,
+    "ci_high": 1.0118933499999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.029172083333333328,
+    "ci_low": 0.021640760416666665,
+    "ci_high": 0.03949627083333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.022444,
+    "ci_low": 1.0131920666666665,
+    "ci_high": 1.0315319000000003,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.029426666666666667,
+    "ci_low": 0.02197413541666667,
+    "ci_high": 0.039496958333333325,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0365246666666665,
+    "ci_low": 1.016312533333333,
+    "ci_high": 1.0535873666666669,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.02967,
+    "ci_low": 0.022621250000000002,
+    "ci_high": 0.038913666666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0971513333333334,
+    "ci_low": 1.0570706333333335,
+    "ci_high": 1.1310686833333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.03118708333333333,
+    "ci_low": 0.024832437500000002,
+    "ci_high": 0.03918919791666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9957019999999999,
+    "ci_low": 0.9897299166666667,
+    "ci_high": 1.00230145,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9066220833333333,
+    "ci_low": 0.83844265625,
+    "ci_high": 0.9656470833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6655460000000001,
+    "ci_low": 0.6377078166666665,
+    "ci_high": 0.6959023166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.8715237500000002,
+    "ci_low": 0.7937493333333334,
+    "ci_high": 0.9424831354166667,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.23686133333333328,
+    "ci_low": 0.15148995,
+    "ci_high": 0.32075916666666654,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.7689920833333335,
+    "ci_low": 0.6885561666666667,
+    "ci_high": 0.8505611458333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.078854,
+    "ci_low": 0.04270185,
+    "ci_high": 0.11979010000000001,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.4628470833333334,
+    "ci_low": 0.4447222916666667,
+    "ci_high": 0.4787278645833333,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.024746666666666663,
+    "ci_low": 0.009557416666666667,
+    "ci_high": 0.04375823333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "naive",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.2465766666666667,
+    "ci_low": 0.24275372916666665,
+    "ci_high": 0.24979503124999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9962859999999999,
+    "ci_low": 0.9905579999999999,
+    "ci_high": 1.0018195,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.4286491666666666,
+    "ci_low": 0.31599085416666667,
+    "ci_high": 0.5654860520833331,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9969199999999999,
+    "ci_low": 0.9913825833333331,
+    "ci_high": 1.0028321833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.42739458333333336,
+    "ci_low": 0.31415011458333336,
+    "ci_high": 0.56463209375,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9920693333333332,
+    "ci_low": 0.9872770166666667,
+    "ci_high": 0.9965533999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.4277941666666667,
+    "ci_low": 0.3147805208333333,
+    "ci_high": 0.5645912916666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.003846,
+    "ci_low": 0.9970779833333333,
+    "ci_high": 1.0103807666666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.42981375000000005,
+    "ci_low": 0.3174022604166667,
+    "ci_high": 0.5660109895833334,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.005982,
+    "ci_low": 0.9989618333333332,
+    "ci_high": 1.0130100166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.42920125,
+    "ci_low": 0.31611478125,
+    "ci_high": 0.5663268020833333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0022739999999999,
+    "ci_low": 0.9973099499999999,
+    "ci_high": 1.0071181333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.029512083333333328,
+    "ci_low": 0.02161205208333333,
+    "ci_high": 0.04042289583333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9969540000000001,
+    "ci_low": 0.9901492999999999,
+    "ci_high": 1.0032947833333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.029085833333333328,
+    "ci_low": 0.021358322916666665,
+    "ci_high": 0.03978002083333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9979786666666666,
+    "ci_low": 0.9921831499999999,
+    "ci_high": 1.0035241833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.028981250000000004,
+    "ci_low": 0.021107875000000005,
+    "ci_high": 0.03989142708333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9946280000000001,
+    "ci_low": 0.9878857833333332,
+    "ci_high": 1.0011580166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.029015416666666665,
+    "ci_low": 0.021146656249999996,
+    "ci_high": 0.03991392708333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0036573333333334,
+    "ci_low": 0.9971051666666666,
+    "ci_high": 1.010187,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.029462499999999992,
+    "ci_low": 0.021696656249999995,
+    "ci_high": 0.04005141666666664,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9957019999999999,
+    "ci_low": 0.9897299166666667,
+    "ci_high": 1.00230145,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9066220833333333,
+    "ci_low": 0.83844265625,
+    "ci_high": 0.9656470833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0041793333333335,
+    "ci_low": 0.9986504166666664,
+    "ci_high": 1.0097734166666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9066275,
+    "ci_low": 0.8380753125,
+    "ci_high": 0.9662489270833332,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9957926666666665,
+    "ci_low": 0.9913298333333332,
+    "ci_high": 1.0003407,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9072983333333334,
+    "ci_low": 0.8392610208333333,
+    "ci_high": 0.9661041666666669,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9926146666666668,
+    "ci_low": 0.9835124666666665,
+    "ci_high": 1.0015161333333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.9078304166666666,
+    "ci_low": 0.8399217916666665,
+    "ci_high": 0.9663634270833332,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9992699999999999,
+    "ci_low": 0.9908219833333333,
+    "ci_high": 1.00809145,
+    "n_clusters": 15
+  },
+  {
+    "method": "oracle",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.9066191666666668,
+    "ci_low": 0.8375785416666665,
+    "ci_high": 0.9659554166666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9962859999999999,
+    "ci_low": 0.9905579999999999,
+    "ci_high": 1.0018195,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.4286491666666666,
+    "ci_low": 0.31599085416666667,
+    "ci_high": 0.5654860520833331,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.49467200000000006,
+    "ci_low": 0.4486450833333333,
+    "ci_high": 0.5293517999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.2881845833333333,
+    "ci_low": 0.20263111458333333,
+    "ci_high": 0.3997805625,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0022739999999999,
+    "ci_low": 0.9973099499999999,
+    "ci_high": 1.0071181333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.029512083333333328,
+    "ci_low": 0.02161205208333333,
+    "ci_high": 0.04042289583333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.6046086666666665,
+    "ci_low": 0.5993205333333332,
+    "ci_high": 0.6099173333333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.01527041666666667,
+    "ci_low": 0.011358739583333334,
+    "ci_high": 0.020363625000000003,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 0.9957019999999999,
+    "ci_low": 0.9897299166666667,
+    "ci_high": 1.00230145,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9066220833333333,
+    "ci_low": 0.83844265625,
+    "ci_high": 0.9656470833333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 0.2868906666666666,
+    "ci_low": 0.24643924999999997,
+    "ci_high": 0.3276385166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.7977933333333334,
+    "ci_low": 0.6969320833333333,
+    "ci_high": 0.8977447395833333,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "robust_alpha",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 3.576707999999999,
+    "ci_low": 2.3092263,
+    "ci_high": 4.894466433333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.5912062500000002,
+    "ci_low": 0.4423351458333334,
+    "ci_high": 0.7386343958333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5609673333333327,
+    "ci_low": 2.29433675,
+    "ci_high": 4.870524700000001,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.5912670833333332,
+    "ci_low": 0.4423929999999999,
+    "ci_high": 0.7382176458333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5877019999999993,
+    "ci_low": 2.3087078166666664,
+    "ci_high": 4.911651883333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.59349125,
+    "ci_low": 0.4452159375,
+    "ci_high": 0.7402232395833334,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5704939999999996,
+    "ci_low": 2.304106183333333,
+    "ci_high": 4.883440149999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.5917504166666666,
+    "ci_low": 0.4437258958333334,
+    "ci_high": 0.7384650208333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5574246666666673,
+    "ci_low": 2.2949194833333335,
+    "ci_high": 4.867028633333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.5914154166666666,
+    "ci_low": 0.44300052083333336,
+    "ci_high": 0.7379878229166665,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 3.565582,
+    "ci_low": 2.299063966666666,
+    "ci_high": 4.871664466666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.13283250000000002,
+    "ci_low": 0.07888447916666667,
+    "ci_high": 0.1925016874999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5936959999999996,
+    "ci_low": 2.3087002166666664,
+    "ci_high": 4.916260866666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.13418916666666666,
+    "ci_low": 0.07924707291666667,
+    "ci_high": 0.19497776041666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 3.566165333333333,
+    "ci_low": 2.3026256666666662,
+    "ci_high": 4.870821383333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.13256458333333335,
+    "ci_low": 0.07856352083333336,
+    "ci_high": 0.1921167395833333,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 3.576652,
+    "ci_low": 2.29675205,
+    "ci_high": 4.900538083333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.13332999999999998,
+    "ci_low": 0.07851728125,
+    "ci_high": 0.19422453124999994,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5904466666666655,
+    "ci_low": 2.31556215,
+    "ci_high": 4.911355916666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.13414416666666668,
+    "ci_low": 0.07943951041666666,
+    "ci_high": 0.19553978125000002,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 3.561323333333333,
+    "ci_low": 2.2921558999999996,
+    "ci_high": 4.88298535,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9581104166666666,
+    "ci_low": 0.8990283333333334,
+    "ci_high": 0.9964092604166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 3.5796713333333328,
+    "ci_low": 2.3068291333333337,
+    "ci_high": 4.895865299999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9588433333333334,
+    "ci_low": 0.8999190520833336,
+    "ci_high": 0.9966419895833335,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 3.582782666666666,
+    "ci_low": 2.3118469333333334,
+    "ci_high": 4.898727966666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9585987499999999,
+    "ci_low": 0.9000894791666669,
+    "ci_high": 0.9965016979166668,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 3.575601333333333,
+    "ci_low": 2.303611366666667,
+    "ci_high": 4.893099116666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.9587458333333333,
+    "ci_low": 0.8998084791666665,
+    "ci_high": 0.9966160625000001,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 3.574418666666667,
+    "ci_low": 2.3017324666666665,
+    "ci_high": 4.887042399999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "static",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.9591175000000001,
+    "ci_low": 0.9005389062500002,
+    "ci_high": 0.9967284375,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.002916,
+    "ci_low": 0.99701465,
+    "ci_high": 1.0085193666666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.43008166666666675,
+    "ci_low": 0.3174160729166666,
+    "ci_high": 0.5665883958333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.5784079999999998,
+    "ci_low": 1.5266253333333333,
+    "ci_high": 1.6241397833333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.5363233333333334,
+    "ci_low": 0.4266295625,
+    "ci_high": 0.6605204479166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 2.3746993333333335,
+    "ci_low": 2.251123916666667,
+    "ci_high": 2.490161666666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.6442599999999999,
+    "ci_low": 0.53601209375,
+    "ci_high": 0.7604576562500001,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 3.686206666666666,
+    "ci_low": 3.46529725,
+    "ci_high": 3.8993048999999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.7461225,
+    "ci_low": 0.6489736145833335,
+    "ci_high": 0.8469728958333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 6.4367806666666665,
+    "ci_low": 6.1074239,
+    "ci_high": 6.774581799999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.8653925,
+    "ci_low": 0.7983898541666666,
+    "ci_high": 0.9304976145833335,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0087659999999998,
+    "ci_low": 1.0039379833333333,
+    "ci_high": 1.0134794999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.029752916666666667,
+    "ci_low": 0.021784510416666663,
+    "ci_high": 0.04076882291666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.7751733333333335,
+    "ci_low": 1.7628684666666667,
+    "ci_high": 1.7870858333333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.061144166666666666,
+    "ci_low": 0.04530281249999999,
+    "ci_high": 0.08400719791666665,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 2.944646666666666,
+    "ci_low": 2.899012233333333,
+    "ci_high": 2.977112216666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.11824499999999999,
+    "ci_low": 0.08868710416666667,
+    "ci_high": 0.16157771875,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 4.832299333333333,
+    "ci_low": 4.673381883333333,
+    "ci_high": 4.941305766666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.22298708333333334,
+    "ci_low": 0.17383770833333334,
+    "ci_high": 0.2953500208333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 8.474932666666668,
+    "ci_low": 8.032516883333333,
+    "ci_high": 8.782407783333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.4536333333333332,
+    "ci_low": 0.39130382291666665,
+    "ci_high": 0.5443423229166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0024353333333333,
+    "ci_low": 0.9967392166666666,
+    "ci_high": 1.0087168166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9073179166666668,
+    "ci_low": 0.8394468020833336,
+    "ci_high": 0.9660333333333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.4189040000000002,
+    "ci_low": 1.4023262666666667,
+    "ci_high": 1.4389434333333335,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9388362499999999,
+    "ci_low": 0.8850287499999999,
+    "ci_high": 0.98348,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 2.0441793333333336,
+    "ci_low": 2.0114037166666665,
+    "ci_high": 2.0850899333333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.96311,
+    "ci_low": 0.9240820833333334,
+    "ci_high": 0.9927955729166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 3.155091333333333,
+    "ci_low": 3.1091626,
+    "ci_high": 3.2185773,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.9825674999999999,
+    "ci_low": 0.9584045833333332,
+    "ci_high": 0.9983808333333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 5.792588666666665,
+    "ci_low": 5.767877599999999,
+    "ci_high": 5.824835799999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_2x_eps",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.9958325,
+    "ci_low": 0.98792875,
+    "ci_high": 1.0,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.002916,
+    "ci_low": 0.99701465,
+    "ci_high": 1.0085193666666668,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.43008166666666675,
+    "ci_low": 0.3174160729166666,
+    "ci_high": 0.5665883958333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2168126666666665,
+    "ci_low": 1.1654580166666668,
+    "ci_high": 1.2610271499999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.4724954166666667,
+    "ci_low": 0.3630191875,
+    "ci_high": 0.6005709895833331,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.4938246666666666,
+    "ci_low": 1.3663839833333333,
+    "ci_high": 1.6040692333333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.5263112499999999,
+    "ci_low": 0.4224685,
+    "ci_high": 0.6472762916666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.9251666666666662,
+    "ci_low": 1.6810317666666665,
+    "ci_high": 2.141682283333333,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.5899154166666667,
+    "ci_low": 0.49194184374999994,
+    "ci_high": 0.6997183229166666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 2.6617459999999995,
+    "ci_low": 2.186886316666666,
+    "ci_high": 3.102540366666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "moderate",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.67053375,
+    "ci_low": 0.5828702916666666,
+    "ci_high": 0.7650471666666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0087659999999998,
+    "ci_low": 1.0039379833333333,
+    "ci_high": 1.0134794999999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.029752916666666667,
+    "ci_low": 0.021784510416666663,
+    "ci_high": 0.04076882291666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.3935719999999998,
+    "ci_low": 1.3840476166666669,
+    "ci_high": 1.4032578166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.04463000000000001,
+    "ci_low": 0.033102875000000004,
+    "ci_high": 0.06083978124999999,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.9835813333333332,
+    "ci_low": 1.95830705,
+    "ci_high": 2.0044122499999997,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.070045,
+    "ci_low": 0.052542406249999986,
+    "ci_high": 0.09504087500000002,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 2.9599640000000003,
+    "ci_low": 2.881260583333333,
+    "ci_high": 3.019231066666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.11655375,
+    "ci_low": 0.09002857291666669,
+    "ci_high": 0.15455053125,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 4.901023999999999,
+    "ci_low": 4.6339329,
+    "ci_high": 5.094644416666666,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "overlap",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.21940124999999996,
+    "ci_low": 0.18048941666666668,
+    "ci_high": 0.27374437499999993,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0024353333333333,
+    "ci_low": 0.9967392166666666,
+    "ci_high": 1.0087168166666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.0,
+    "metric": "recall",
+    "mean": 0.9073179166666668,
+    "ci_low": 0.8394468020833336,
+    "ci_high": 0.9660333333333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "fpr_over_alpha",
+    "mean": 1.0452119999999998,
+    "ci_low": 1.0257492833333333,
+    "ci_high": 1.0678020499999998,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.02,
+    "metric": "recall",
+    "mean": 0.9137875,
+    "ci_low": 0.8497290937499999,
+    "ci_high": 0.9687933333333334,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "fpr_over_alpha",
+    "mean": 1.083134,
+    "ci_low": 1.0307118833333333,
+    "ci_high": 1.1438917333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.05,
+    "metric": "recall",
+    "mean": 0.9221874999999999,
+    "ci_low": 0.8647429166666667,
+    "ci_high": 0.9715116666666667,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "fpr_over_alpha",
+    "mean": 1.1530139999999998,
+    "ci_low": 1.0518860833333334,
+    "ci_high": 1.2713994333333332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.1,
+    "metric": "recall",
+    "mean": 0.9327933333333333,
+    "ci_low": 0.8822859479166666,
+    "ci_high": 0.9755416145833332,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "fpr_over_alpha",
+    "mean": 1.2756859999999999,
+    "ci_low": 1.1069385499999997,
+    "ci_high": 1.4757176499999995,
+    "n_clusters": 15
+  },
+  {
+    "method": "trim_known_eps",
+    "attack": "strong",
+    "eps": 0.2,
+    "metric": "recall",
+    "mean": 0.9461804166666667,
+    "ci_low": 0.9049826458333333,
+    "ci_high": 0.9808158437499999,
+    "n_clusters": 15
+  }
+]

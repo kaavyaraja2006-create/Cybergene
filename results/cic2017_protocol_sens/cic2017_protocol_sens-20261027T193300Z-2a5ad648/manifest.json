@@ -1,0 +1,135 @@
+{
+  "experiment_id": "cic2017_protocol_sens-20261027T193300Z-2a5ad648",
+  "experiment": "cic2017_protocol_sens",
+  "timestamp_utc": "2026-10-27T19:33:00.261512+00:00",
+  "git": {
+    "commit": "15a589bbef678b57cf2d69be20da844abe1fa109",
+    "dirty": true,
+    "note": null
+  },
+  "environment": {
+    "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (3)\\CYBERGENE_v2\\.venv\\Scripts\\python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "cpu": {
+      "model": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "logical_cores": 20,
+      "total_memory_bytes": 16873545728
+    },
+    "gpu": {
+      "gpus": [
+        "NVIDIA GeForce RTX 4050 Laptop GPU, 6141 MiB, 581.86"
+      ]
+    },
+    "packages": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pandas": "3.1.0",
+      "scikit-learn": "1.9.1",
+      "lightgbm": "4.7.0",
+      "xgboost": null,
+      "hnswlib": null,
+      "faiss-cpu": null,
+      "matplotlib": "3.11.2",
+      "PyYAML": "6.0.3",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1"
+    },
+    "env_threads": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    }
+  },
+  "dataset": {
+    "path": "data\\CIC-IDS2017",
+    "version": "state variant: GeneratedLabelledFlows or MachineLearningCSV",
+    "sha256": "a3cb7a6fd39439d0169c4a5f122b92e36d8a7eb1b39816dd5caefba8d830bc73",
+    "files": {
+      "data\\CIC-IDS2017\\Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv": "1f779b4f0d78f9225554c4de53b5a2c07912b60dcd136ee4c5c1d0d2496b7cc4",
+      "data\\CIC-IDS2017\\Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": "7e2ddaa80a5849ba629463296b6128436c161b4a32e8034bb5beae06b0c45e08",
+      "data\\CIC-IDS2017\\Friday-WorkingHours-Morning.pcap_ISCX.csv": "c061cd98f39d8054aeaed6244a5129a20b3985983d0d022b860ae8aa07fe8d21",
+      "data\\CIC-IDS2017\\Monday-WorkingHours.pcap_ISCX.csv": "96f26aea87d513073769b48ce204c2921791149e1c6225f7db65a3fed7973820",
+      "data\\CIC-IDS2017\\Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv": "d74238e054023c8bd4d8056650463cadb25c100fb0e26ebd4272c07b5c022c4b",
+      "data\\CIC-IDS2017\\Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv": "e3deaff483d18b53b100a441dff9b8919416df8876b4edcc0f0d1e4bf48397d0",
+      "data\\CIC-IDS2017\\Tuesday-WorkingHours.pcap_ISCX.csv": "ae9c88e10c41a8eb1ff454ae98bc513454925097d0b0b57180f94e79de445815",
+      "data\\CIC-IDS2017\\Wednesday-workingHours.pcap_ISCX.csv": "ed538e85b84181e8897dedb3d37d365982f44b27eccd67c477581a8b65f3d170"
+    },
+    "synthetic": false,
+    "n_rows": 2830743,
+    "alignment": {
+      "dur": "flow_duration",
+      "spkts": "total_fwd_packets",
+      "dpkts": "total_backward_packets",
+      "sbytes": "total_length_of_fwd_packets",
+      "dbytes": "total_length_of_bwd_packets",
+      "rate": "flow_packets_s",
+      "sport": "source_port",
+      "dsport": "destination_port",
+      "proto": "protocol",
+      "srcip": "source_ip",
+      "dstip": "destination_ip",
+      "stime": "timestamp",
+      "label": "label",
+      "flow_id": "flow_id"
+    },
+    "cleaning": {
+      "rows_raw": 3119345,
+      "repeated_header_rows_dropped": 0,
+      "blank_label_rows_dropped": 288602,
+      "unparseable_timestamps": 529918,
+      "inf_or_nan_cells": 5734,
+      "negative_cells": 2446321,
+      "constant_columns_dropped": [
+        "bwd_psh_flags",
+        "bwd_urg_flags",
+        "fwd_avg_bytes_bulk",
+        "fwd_avg_packets_bulk",
+        "fwd_avg_bulk_rate",
+        "bwd_avg_bytes_bulk",
+        "bwd_avg_packets_bulk",
+        "bwd_avg_bulk_rate"
+      ]
+    },
+    "sample": null,
+    "attack_labels": {
+      "DoS Hulk": 231073,
+      "PortScan": 158930,
+      "DDoS": 128027,
+      "DoS GoldenEye": 10293,
+      "FTP-Patator": 7938,
+      "SSH-Patator": 5897,
+      "DoS slowloris": 5796,
+      "DoS Slowhttptest": 5499,
+      "Bot": 1966,
+      "Web Attack - Brute Force": 1507,
+      "Web Attack - XSS": 652,
+      "Infiltration": 36,
+      "Web Attack - Sql Injection": 21,
+      "Heartbleed": 11
+    }
+  },
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "cli_args": [
+    "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (4)\\CYBERGENE_v2\\cgresearch\\cli.py",
+    "protocol-sens",
+    "-c",
+    "configs\\v2_cic2017_protocol_sens.yaml",
+    "--seeds",
+    "0-2",
+    "--set",
+    "models=[isolation_forest,pca,hbos,ecod]",
+    "--set",
+    "max_fit_rows=30000",
+    "--set",
+    "n_boot=2000"
+  ],
+  "config_sha256": "2a5ad6483d2c9cf472cd40bcb83a2a9d07cb3f642211b0a431341d01714f0f5a",
+  "status": "running",
+  "result_files": []
+}

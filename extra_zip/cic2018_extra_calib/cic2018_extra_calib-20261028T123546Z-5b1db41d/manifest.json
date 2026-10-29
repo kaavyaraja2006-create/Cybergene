@@ -1,0 +1,235 @@
+{
+  "experiment_id": "cic2018_extra_calib-20261028T123546Z-5b1db41d",
+  "experiment": "cic2018_extra_calib",
+  "timestamp_utc": "2026-10-28T12:35:46.704493+00:00",
+  "git": {
+    "commit": "15a589bbef678b57cf2d69be20da844abe1fa109",
+    "dirty": true,
+    "note": null
+  },
+  "environment": {
+    "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Python314\\python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "cpu": {
+      "model": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "logical_cores": 20,
+      "total_memory_bytes": 16873545728
+    },
+    "gpu": {
+      "gpus": [
+        "NVIDIA GeForce RTX 4050 Laptop GPU, 6141 MiB, 581.86"
+      ]
+    },
+    "packages": {
+      "numpy": "2.5.2",
+      "scipy": "1.18.1",
+      "pandas": "2.3.3",
+      "scikit-learn": "1.9.1",
+      "lightgbm": "4.7.0",
+      "xgboost": "3.4.1",
+      "hnswlib": null,
+      "faiss-cpu": "1.15.1",
+      "matplotlib": "3.11.2",
+      "PyYAML": "6.0.3",
+      "psutil": "6.0.0",
+      "pytest": "8.3.3"
+    },
+    "env_threads": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    }
+  },
+  "dataset": {
+    "path": "data\\CIC-IDS2018",
+    "version": "CSE-CIC-IDS2018 processed CSVs",
+    "sha256": "e17c41b6cb5aa4e451fed868b15d2b2c9d352a88466dbfd59d7b532af99a5483",
+    "files": {
+      "data\\CIC-IDS2018\\Friday-02-03-2018_TrafficForML_CICFlowMeter.csv": "d96f38e7496aba83475031e6fb8c6fdf1abf6aa1b71325a917798f3c7de93de1",
+      "data\\CIC-IDS2018\\Friday-16-02-2018_TrafficForML_CICFlowMeter.csv": "1a4919faa0c49c7af97230b0c2d076eba23ee6dd81103a3801d51ac316355d8b",
+      "data\\CIC-IDS2018\\Friday-23-02-2018_TrafficForML_CICFlowMeter.csv": "d0a7f5059d9823b6e9b392b759e306481a3502d190dea7a1b5502ae079ea069b",
+      "data\\CIC-IDS2018\\Thuesday-20-02-2018_TrafficForML_CICFlowMeter.csv": "7287a4d7740a1dddbf330ceb2beb6a4889d33ba63674558a68b5eb50d16711df",
+      "data\\CIC-IDS2018\\Thursday-01-03-2018_TrafficForML_CICFlowMeter.csv": "b0534c5d7d8b41e03df71c6966c995d116a8ed28e61f377c8b14cdf5d28f4edf",
+      "data\\CIC-IDS2018\\Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv": "fa2947a8256d81ee9103ae16139d62d0e17aa23e696ee80d9e76fb51c01c9c4b",
+      "data\\CIC-IDS2018\\Thursday-22-02-2018_TrafficForML_CICFlowMeter.csv": "da33c927018274f9d49b145baa00e4ce0526c25b3b890b34c489e247b5e24544",
+      "data\\CIC-IDS2018\\Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv": "acff8bc61376ee031d80878ee6099e0b1a87a1bd711d8068298421418c9f8147",
+      "data\\CIC-IDS2018\\Wednesday-21-02-2018_TrafficForML_CICFlowMeter.csv": "a5f4a1c2689e0aa6566c03a58466de9c407c0be0cbd3cc69306544026611be04",
+      "data\\CIC-IDS2018\\Wednesday-28-02-2018_TrafficForML_CICFlowMeter.csv": "f15e2a12304446058a0186c8ad67de2bd15735a9ba5c70c9a1f4c4242ab06771"
+    },
+    "synthetic": false,
+    "n_rows": 4305139,
+    "alignment": {
+      "dur": "flow_duration",
+      "spkts": "tot_fwd_pkts",
+      "dpkts": "tot_bwd_pkts",
+      "sbytes": "totlen_fwd_pkts",
+      "dbytes": "totlen_bwd_pkts",
+      "rate": "flow_pkts_s",
+      "sport": "src_port",
+      "dsport": "dst_port",
+      "proto": "protocol",
+      "srcip": "src_ip",
+      "dstip": "dst_ip",
+      "stime": "timestamp",
+      "label": "label",
+      "flow_id": "flow_id"
+    },
+    "cleaning": {
+      "rows_raw": 4305164,
+      "per_file_reduction": {
+        "Friday-02-03-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048575,
+          "after_exact_dedup": 1043116,
+          "rows_kept": 450000,
+          "cap": 400000
+        },
+        "Friday-16-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048574,
+          "after_exact_dedup": 900988,
+          "rows_kept": 469462,
+          "cap": 400000
+        },
+        "Friday-23-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048575,
+          "after_exact_dedup": 1045961,
+          "rows_kept": 400566,
+          "cap": 400000
+        },
+        "Thuesday-20-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 7948748,
+          "after_header_blank_drop": 7948748,
+          "after_exact_dedup": 7948746,
+          "rows_kept": 450000,
+          "cap": 400000
+        },
+        "Thursday-15-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048575,
+          "after_exact_dedup": 1046154,
+          "rows_kept": 451740,
+          "cap": 400000
+        },
+        "Thursday-22-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048575,
+          "after_exact_dedup": 1045297,
+          "rows_kept": 400362,
+          "cap": 400000
+        },
+        "Wednesday-14-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048575,
+          "after_exact_dedup": 822947,
+          "rows_kept": 489352,
+          "cap": 400000
+        },
+        "Wednesday-21-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 1048575,
+          "after_header_blank_drop": 1048575,
+          "after_exact_dedup": 1031018,
+          "rows_kept": 412557,
+          "cap": 400000
+        },
+        "Wednesday-28-02-2018_TrafficForML_CICFlowMeter": {
+          "rows_in": 613104,
+          "after_header_blank_drop": 613071,
+          "after_exact_dedup": 606982,
+          "rows_kept": 450000,
+          "cap": 400000
+        }
+      },
+      "repeated_header_rows_dropped": 25,
+      "blank_label_rows_dropped": 0,
+      "timestamp_dayfirst": true,
+      "unparseable_timestamps": 0,
+      "inf_or_nan_cells": 3898459,
+      "negative_cells": 2901808,
+      "constant_columns_dropped": [
+        "bwd_psh_flags",
+        "bwd_urg_flags",
+        "fwd_byts_b_avg",
+        "fwd_pkts_b_avg",
+        "fwd_blk_rate_avg",
+        "bwd_byts_b_avg",
+        "bwd_pkts_b_avg",
+        "bwd_blk_rate_avg"
+      ]
+    },
+    "sample": null,
+    "attack_labels": {
+      "Infilteration": 143063,
+      "Bot": 50000,
+      "SSH-Bruteforce": 50000,
+      "DDOS attack-HOIC": 50000,
+      "DDoS attacks-LOIC-HTTP": 50000,
+      "DoS attacks-Hulk": 50000,
+      "DoS attacks-GoldenEye": 41455,
+      "FTP-BruteForce": 39352,
+      "DoS attacks-SlowHTTPTest": 19462,
+      "DoS attacks-Slowloris": 10285,
+      "DDOS attack-LOIC-UDP": 1730,
+      "Brute Force -Web": 611,
+      "Brute Force -XSS": 230,
+      "SQL Injection": 87
+    }
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "cli_args": [
+    "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (4)\\CYBERGENE_v2\\cgresearch\\cli.py",
+    "calib-transfer",
+    "-c",
+    "configs\\v2_cic2018_calib_transfer.yaml",
+    "--seeds",
+    "0-4",
+    "--out",
+    "results10",
+    "--set",
+    "name=cic2018_extra_calib",
+    "--set",
+    "models=[autoencoder,lof]",
+    "--set",
+    "scenarios=[{kind: random},{kind: temporal, n_blocks: 5, fit_blocks: [0], label_blocks: [1]}]",
+    "--set",
+    "max_fit_rows=20000"
+  ],
+  "config_sha256": "5b1db41d96f454ebdc2511faf5d56801fa957ac9705f1a9e426d6838481dc79f",
+  "status": "completed",
+  "result_files": [
+    "tables/summary.csv",
+    "tables/summary.json",
+    "tables/per_window.csv",
+    "tables/per_window.json",
+    "tables/tuning_trials.csv",
+    "tables/tuning_trials.json"
+  ],
+  "dedup": {
+    "mode": "exact",
+    "rows_before": 4305139,
+    "rows_after": 3713497,
+    "removed": 591642,
+    "attack_before": 506275,
+    "attack_after": 342203,
+    "rows_sampled": 300000,
+    "attack_sampled": 27645,
+    "dedup_first": true,
+    "rows_full_before": 4305139,
+    "rows_full_after": 3713497,
+    "attack_full_before": 506275,
+    "attack_full_after": 342203,
+    "sample_n": 300000
+  },
+  "identity_max_abs_error": 1.1102230246251565e-16,
+  "ks_bound_holds_fraction": 1.0,
+  "runtime_seconds": 1628.244
+}

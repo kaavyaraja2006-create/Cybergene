@@ -1,0 +1,181 @@
+fold,seed,model,params,criterion,score
+seed0,0,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.9852054878915268
+seed0,0,autoencoder,"{'alpha': 1e-05, 'bottleneck': 4}",pseudo_anomaly,0.991483717584839
+seed0,0,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9996478628483676
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9851570133138516
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9916733189277852
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9970248209292839
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9996485860499404
+seed0,0,autoencoder,"{'alpha': 0.001, 'bottleneck': 2}",pseudo_anomaly,0.9852983884362492
+seed0,0,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9915928185638023
+seed0,0,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9851601769462501
+seed0,0,autoencoder,"{'alpha': 0.01, 'bottleneck': 4}",pseudo_anomaly,0.9914957127247638
+seed0,0,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9997686494945031
+seed0,0,lof,{'n_neighbors': 5},pseudo_anomaly,0.9884676629455186
+seed0,0,lof,{'n_neighbors': 10},pseudo_anomaly,0.989877403306753
+seed0,0,lof,{'n_neighbors': 20},pseudo_anomaly,0.9920968379321016
+seed0,0,lof,{'n_neighbors': 35},pseudo_anomaly,0.9881784035869806
+seed0,0,lof,{'n_neighbors': 50},pseudo_anomaly,0.9869446312903247
+seed0,0,lof,{'n_neighbors': 100},pseudo_anomaly,0.9798164584990456
+seed1,1,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.9804955250033256
+seed1,1,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9996593370075404
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9805680875260174
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9943501686616615
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9981590143011578
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9996540388220321
+seed1,1,autoencoder,"{'alpha': 0.001, 'bottleneck': 2}",pseudo_anomaly,0.9805293108597413
+seed1,1,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9934219004965723
+seed1,1,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9984166747840102
+seed1,1,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9799525318408981
+seed1,1,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.997866558355717
+seed1,1,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9996675244043037
+seed1,1,lof,{'n_neighbors': 5},pseudo_anomaly,0.9914202295342449
+seed1,1,lof,{'n_neighbors': 10},pseudo_anomaly,0.9909142709431695
+seed1,1,lof,{'n_neighbors': 20},pseudo_anomaly,0.991131527706
+seed1,1,lof,{'n_neighbors': 35},pseudo_anomaly,0.9911417708646495
+seed1,1,lof,{'n_neighbors': 50},pseudo_anomaly,0.9862348050518697
+seed1,1,lof,{'n_neighbors': 100},pseudo_anomaly,0.9793247389500416
+seed2,2,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.9780141700760833
+seed2,2,autoencoder,"{'alpha': 1e-05, 'bottleneck': 8}",pseudo_anomaly,0.9962510279011652
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9779652554059843
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9936731899750129
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9965260467197
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9998628442524794
+seed2,2,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9936691599387415
+seed2,2,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9967398681252657
+seed2,2,autoencoder,"{'alpha': 0.001, 'bottleneck': 16}",pseudo_anomaly,0.9998042538403752
+seed2,2,autoencoder,"{'alpha': 0.01, 'bottleneck': 4}",pseudo_anomaly,0.9935882389554511
+seed2,2,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.9969766498326331
+seed2,2,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9997592838244231
+seed2,2,lof,{'n_neighbors': 5},pseudo_anomaly,0.9899277946382241
+seed2,2,lof,{'n_neighbors': 10},pseudo_anomaly,0.9915456558749788
+seed2,2,lof,{'n_neighbors': 20},pseudo_anomaly,0.9941076759387246
+seed2,2,lof,{'n_neighbors': 35},pseudo_anomaly,0.9907695958765608
+seed2,2,lof,{'n_neighbors': 50},pseudo_anomaly,0.9888688289096688
+seed2,2,lof,{'n_neighbors': 100},pseudo_anomaly,0.9830335691673691
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.9819921397288185
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 4}",pseudo_anomaly,0.9936143482099178
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 8}",pseudo_anomaly,0.9990812838477322
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.999713389584423
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 2}",pseudo_anomaly,0.9822781329964085
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9936401285185157
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9992672595960488
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 16}",pseudo_anomaly,0.9997131915578117
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9822959937384861
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 4}",pseudo_anomaly,0.9936150081987603
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.9994273387962438
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9997252666873058
+seed3,3,lof,{'n_neighbors': 5},pseudo_anomaly,0.9873400402523929
+seed3,3,lof,{'n_neighbors': 10},pseudo_anomaly,0.9900997326665313
+seed3,3,lof,{'n_neighbors': 20},pseudo_anomaly,0.9908291377750759
+seed3,3,lof,{'n_neighbors': 35},pseudo_anomaly,0.9892942694611637
+seed3,3,lof,{'n_neighbors': 50},pseudo_anomaly,0.9870984113868442
+seed3,3,lof,{'n_neighbors': 100},pseudo_anomaly,0.9794220245409209
+seed4,4,autoencoder,"{'alpha': 1e-05, 'bottleneck': 4}",pseudo_anomaly,0.9945210728172975
+seed4,4,autoencoder,"{'alpha': 1e-05, 'bottleneck': 8}",pseudo_anomaly,0.9991688936966062
+seed4,4,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9997821674321061
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9818108878588787
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9946452774446863
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9992191654931033
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9997898092820325
+seed4,4,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9945650817600737
+seed4,4,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9991231222870306
+seed4,4,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9814453142571444
+seed4,4,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.999206353381062
+seed4,4,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9997265486175173
+seed4,4,lof,{'n_neighbors': 5},pseudo_anomaly,0.9881439086095529
+seed4,4,lof,{'n_neighbors': 10},pseudo_anomaly,0.9895760310708341
+seed4,4,lof,{'n_neighbors': 20},pseudo_anomaly,0.9944154410488623
+seed4,4,lof,{'n_neighbors': 35},pseudo_anomaly,0.9904925443642927
+seed4,4,lof,{'n_neighbors': 50},pseudo_anomaly,0.9877016378932013
+seed4,4,lof,{'n_neighbors': 100},pseudo_anomaly,0.9811515431274018
+seed0,0,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.9678039736054505
+seed0,0,autoencoder,"{'alpha': 1e-05, 'bottleneck': 4}",pseudo_anomaly,0.9927460822697134
+seed0,0,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9999947165528142
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.967798592251897
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9913515634150312
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9969075050014069
+seed0,0,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9999935521663728
+seed0,0,autoencoder,"{'alpha': 0.001, 'bottleneck': 2}",pseudo_anomaly,0.967794050095779
+seed0,0,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9923896856089471
+seed0,0,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9677722729223354
+seed0,0,autoencoder,"{'alpha': 0.01, 'bottleneck': 4}",pseudo_anomaly,0.9917040752910037
+seed0,0,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9999971467287203
+seed0,0,lof,{'n_neighbors': 5},pseudo_anomaly,0.9905241602004407
+seed0,0,lof,{'n_neighbors': 10},pseudo_anomaly,0.9927423758143746
+seed0,0,lof,{'n_neighbors': 20},pseudo_anomaly,0.993582765609275
+seed0,0,lof,{'n_neighbors': 35},pseudo_anomaly,0.9938960275218716
+seed0,0,lof,{'n_neighbors': 50},pseudo_anomaly,0.9926677431891365
+seed0,0,lof,{'n_neighbors': 100},pseudo_anomaly,0.9886718241782908
+seed1,1,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.953880132143385
+seed1,1,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9999922653969722
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9539465126605101
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9931419666664625
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.996736619927006
+seed1,1,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9999864784313252
+seed1,1,autoencoder,"{'alpha': 0.001, 'bottleneck': 2}",pseudo_anomaly,0.9761195809909584
+seed1,1,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9931142486745086
+seed1,1,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9980789931510579
+seed1,1,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.953918682775565
+seed1,1,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.9963219340110524
+seed1,1,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9999843209945855
+seed1,1,lof,{'n_neighbors': 5},pseudo_anomaly,0.9911869303615226
+seed1,1,lof,{'n_neighbors': 10},pseudo_anomaly,0.9931293087718147
+seed1,1,lof,{'n_neighbors': 20},pseudo_anomaly,0.9939839264598979
+seed1,1,lof,{'n_neighbors': 35},pseudo_anomaly,0.9954078067348446
+seed1,1,lof,{'n_neighbors': 50},pseudo_anomaly,0.993767147775759
+seed1,1,lof,{'n_neighbors': 100},pseudo_anomaly,0.9882237067345118
+seed2,2,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.9744064153734704
+seed2,2,autoencoder,"{'alpha': 1e-05, 'bottleneck': 8}",pseudo_anomaly,0.99764928909767
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9698920087172473
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9931750450320336
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9978917297400465
+seed2,2,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.99999122339349
+seed2,2,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9938765546447186
+seed2,2,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9979398996728277
+seed2,2,autoencoder,"{'alpha': 0.001, 'bottleneck': 16}",pseudo_anomaly,0.9999809537148766
+seed2,2,autoencoder,"{'alpha': 0.01, 'bottleneck': 4}",pseudo_anomaly,0.9927469844069563
+seed2,2,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.9979032267449089
+seed2,2,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9999902443298156
+seed2,2,lof,{'n_neighbors': 5},pseudo_anomaly,0.9883535725376108
+seed2,2,lof,{'n_neighbors': 10},pseudo_anomaly,0.9896761407021917
+seed2,2,lof,{'n_neighbors': 20},pseudo_anomaly,0.990830771473363
+seed2,2,lof,{'n_neighbors': 35},pseudo_anomaly,0.9929533185796828
+seed2,2,lof,{'n_neighbors': 50},pseudo_anomaly,0.992711119206569
+seed2,2,lof,{'n_neighbors': 100},pseudo_anomaly,0.9849869222269021
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 2}",pseudo_anomaly,0.982914702490103
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 4}",pseudo_anomaly,0.9903222073376571
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 8}",pseudo_anomaly,0.9970676938051648
+seed3,3,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9992170637595077
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 2}",pseudo_anomaly,0.9826955810464573
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.992091099161499
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.9966883485912015
+seed3,3,autoencoder,"{'alpha': 0.001, 'bottleneck': 16}",pseudo_anomaly,0.9990891665737256
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9821147655082356
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 4}",pseudo_anomaly,0.9920316804864302
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.9959865522527263
+seed3,3,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9999550504873764
+seed3,3,lof,{'n_neighbors': 5},pseudo_anomaly,0.989753388826103
+seed3,3,lof,{'n_neighbors': 10},pseudo_anomaly,0.9910855500663651
+seed3,3,lof,{'n_neighbors': 20},pseudo_anomaly,0.9926126044209873
+seed3,3,lof,{'n_neighbors': 35},pseudo_anomaly,0.9942224963041046
+seed3,3,lof,{'n_neighbors': 50},pseudo_anomaly,0.9927261932904989
+seed3,3,lof,{'n_neighbors': 100},pseudo_anomaly,0.9853900447015298
+seed4,4,autoencoder,"{'alpha': 1e-05, 'bottleneck': 4}",pseudo_anomaly,0.986577645441937
+seed4,4,autoencoder,"{'alpha': 1e-05, 'bottleneck': 8}",pseudo_anomaly,0.9984687024533461
+seed4,4,autoencoder,"{'alpha': 1e-05, 'bottleneck': 16}",pseudo_anomaly,0.9999515643213645
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 2}",pseudo_anomaly,0.9789800204154357
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 4}",pseudo_anomaly,0.9926908351052288
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 8}",pseudo_anomaly,0.9982669838665132
+seed4,4,autoencoder,"{'alpha': 0.0001, 'bottleneck': 16}",pseudo_anomaly,0.9999517006909476
+seed4,4,autoencoder,"{'alpha': 0.001, 'bottleneck': 4}",pseudo_anomaly,0.9932150048165735
+seed4,4,autoencoder,"{'alpha': 0.001, 'bottleneck': 8}",pseudo_anomaly,0.996588386190044
+seed4,4,autoencoder,"{'alpha': 0.01, 'bottleneck': 2}",pseudo_anomaly,0.9781526941272768
+seed4,4,autoencoder,"{'alpha': 0.01, 'bottleneck': 8}",pseudo_anomaly,0.9979578654912532
+seed4,4,autoencoder,"{'alpha': 0.01, 'bottleneck': 16}",pseudo_anomaly,0.9999584597269571
+seed4,4,lof,{'n_neighbors': 5},pseudo_anomaly,0.9906700511778961
+seed4,4,lof,{'n_neighbors': 10},pseudo_anomaly,0.9925867536433268
+seed4,4,lof,{'n_neighbors': 20},pseudo_anomaly,0.9948060567172705
+seed4,4,lof,{'n_neighbors': 35},pseudo_anomaly,0.99571460682719
+seed4,4,lof,{'n_neighbors': 50},pseudo_anomaly,0.9944862315813996
+seed4,4,lof,{'n_neighbors': 100},pseudo_anomaly,0.9895145986925695

@@ -1,0 +1,1442 @@
+[
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9852054878915268
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991483717584839
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996478628483676
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9851570133138516
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9916733189277852
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9970248209292839
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996485860499404
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9852983884362492
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915928185638023
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9851601769462501
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9914957127247638
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997686494945031
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9884676629455186
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.989877403306753
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9920968379321016
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9881784035869806
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9869446312903247
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9798164584990456
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9804955250033256
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996593370075404
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9805680875260174
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9943501686616615
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9981590143011578
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996540388220321
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9805293108597413
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9934219004965723
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9984166747840102
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9799525318408981
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.997866558355717
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9996675244043037
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9914202295342449
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9909142709431695
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.991131527706
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9911417708646495
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9862348050518697
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9793247389500416
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9780141700760833
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9962510279011652
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9779652554059843
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9936731899750129
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9965260467197
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998628442524794
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9936691599387415
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9967398681252657
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9998042538403752
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9935882389554511
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9969766498326331
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997592838244231
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9899277946382241
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9915456558749788
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9941076759387246
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9907695958765608
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9888688289096688
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9830335691673691
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9819921397288185
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9936143482099178
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9990812838477322
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999713389584423
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9822781329964085
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9936401285185157
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9992672595960488
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997131915578117
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9822959937384861
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9936150081987603
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9994273387962438
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997252666873058
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9873400402523929
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9900997326665313
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9908291377750759
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9892942694611637
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9870984113868442
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9794220245409209
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9945210728172975
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991688936966062
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997821674321061
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9818108878588787
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9946452774446863
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9992191654931033
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997898092820325
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9945650817600737
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9991231222870306
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9814453142571444
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.999206353381062
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9997265486175173
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9881439086095529
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9895760310708341
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944154410488623
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9904925443642927
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9877016378932013
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9811515431274018
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9678039736054505
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9927460822697134
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999947165528142
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.967798592251897
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9913515634150312
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9969075050014069
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999935521663728
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.967794050095779
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9923896856089471
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9677722729223354
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9917040752910037
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999971467287203
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9905241602004407
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9927423758143746
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.993582765609275
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9938960275218716
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9926677431891365
+  },
+  {
+    "fold": "seed0",
+    "seed": 0,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9886718241782908
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.953880132143385
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999922653969722
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9539465126605101
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9931419666664625
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.996736619927006
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999864784313252
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9761195809909584
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9931142486745086
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9980789931510579
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.953918682775565
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9963219340110524
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999843209945855
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9911869303615226
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9931293087718147
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9939839264598979
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9954078067348446
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.993767147775759
+  },
+  {
+    "fold": "seed1",
+    "seed": 1,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9882237067345118
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9744064153734704
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99764928909767
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9698920087172473
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9931750450320336
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9978917297400465
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99999122339349
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9938765546447186
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9979398996728277
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999809537148766
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9927469844069563
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9979032267449089
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999902443298156
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9883535725376108
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9896761407021917
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.990830771473363
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9929533185796828
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.992711119206569
+  },
+  {
+    "fold": "seed2",
+    "seed": 2,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9849869222269021
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.982914702490103
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9903222073376571
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9970676938051648
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9992170637595077
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9826955810464573
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.992091099161499
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9966883485912015
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9990891665737256
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9821147655082356
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9920316804864302
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9959865522527263
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999550504873764
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.989753388826103
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9910855500663651
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9926126044209873
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9942224963041046
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9927261932904989
+  },
+  {
+    "fold": "seed3",
+    "seed": 3,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9853900447015298
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.986577645441937
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9984687024533461
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 1e-05, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999515643213645
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9789800204154357
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9926908351052288
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9982669838665132
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.0001, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999517006909476
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 4}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9932150048165735
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.001, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.996588386190044
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 2}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9781526941272768
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 8}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9979578654912532
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "autoencoder",
+    "params": "{'alpha': 0.01, 'bottleneck': 16}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9999584597269571
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 5}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9906700511778961
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 10}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9925867536433268
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 20}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9948060567172705
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 35}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.99571460682719
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 50}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9944862315813996
+  },
+  {
+    "fold": "seed4",
+    "seed": 4,
+    "model": "lof",
+    "params": "{'n_neighbors': 100}",
+    "criterion": "pseudo_anomaly",
+    "score": 0.9895145986925695
+  }
+]

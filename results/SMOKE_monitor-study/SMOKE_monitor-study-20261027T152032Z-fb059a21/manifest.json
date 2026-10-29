@@ -1,0 +1,79 @@
+{
+  "experiment_id": "SMOKE_monitor-study-20261027T152032Z-fb059a21",
+  "experiment": "SMOKE_monitor-study",
+  "timestamp_utc": "2026-10-27T15:20:32.552951+00:00",
+  "git": {
+    "commit": "15a589bbef678b57cf2d69be20da844abe1fa109",
+    "dirty": true,
+    "note": null
+  },
+  "environment": {
+    "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+    "python_executable": "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (3)\\CYBERGENE_v2\\.venv\\Scripts\\python.exe",
+    "os": "Windows-11-10.0.26200-SP0",
+    "machine": "AMD64",
+    "cpu": {
+      "model": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+      "logical_cores": 20,
+      "total_memory_bytes": 16873545728
+    },
+    "gpu": {
+      "gpus": [
+        "NVIDIA GeForce RTX 4050 Laptop GPU, 6141 MiB, 581.86"
+      ]
+    },
+    "packages": {
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pandas": "3.1.0",
+      "scikit-learn": "1.9.1",
+      "lightgbm": "4.7.0",
+      "xgboost": null,
+      "hnswlib": null,
+      "faiss-cpu": null,
+      "matplotlib": "3.11.2",
+      "PyYAML": "6.0.3",
+      "psutil": "7.2.2",
+      "pytest": "9.1.1"
+    },
+    "env_threads": {
+      "OMP_NUM_THREADS": "1",
+      "OPENBLAS_NUM_THREADS": "1",
+      "MKL_NUM_THREADS": "1"
+    }
+  },
+  "dataset": {
+    "synthetic": true,
+    "source": "score-level simulation"
+  },
+  "seeds": [
+    0,
+    1
+  ],
+  "cli_args": [
+    "C:\\Users\\kaavy\\Downloads\\CYBERGENE_v2 (3)\\CYBERGENE_v2\\cgresearch\\cli.py",
+    "monitor-study",
+    "--smoke"
+  ],
+  "config_sha256": "fb059a2116dfc0a344618073ceefd63ac30d14959554a30bb2a4b7ad9e5ae53e",
+  "status": "completed",
+  "result_files": [
+    "tables/summary_triggers.csv",
+    "tables/summary_triggers.json",
+    "tables/summary_false_alarm.csv",
+    "tables/summary_false_alarm.json",
+    "tables/summary_delay_prediction.csv",
+    "tables/summary_delay_prediction.json",
+    "tables/summary_certificate.csv",
+    "tables/summary_certificate.json",
+    "tables/trigger_runs.csv",
+    "tables/trigger_runs.json",
+    "tables/false_alarm_runs.csv",
+    "tables/false_alarm_runs.json",
+    "tables/delay_prediction_runs.csv",
+    "tables/delay_prediction_runs.json",
+    "tables/certificate_runs.csv",
+    "tables/certificate_runs.json"
+  ],
+  "runtime_seconds": 27.804
+}

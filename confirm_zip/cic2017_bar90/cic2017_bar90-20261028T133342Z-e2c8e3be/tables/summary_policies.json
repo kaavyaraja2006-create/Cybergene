@@ -1,0 +1,3202 @@
+[
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.017703498314855164,
+    "ci_low": 0.005094016388367149,
+    "ci_high": 0.02862407024088438,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.14639505663862043,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.384791256324103,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.006458426998365768,
+    "ci_low": 0.0,
+    "ci_high": 0.019375280995097305,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.12841823401434105,
+    "ci_low": 0.0,
+    "ci_high": 0.3852547020430232,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.02121174435198467,
+    "ci_low": 0.014712377964457471,
+    "ci_high": 0.029547574096399243,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.1489911970171836,
+    "ci_low": 0.011811023622047244,
+    "ci_high": 0.3852547020430232,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.03956794979419067,
+    "ci_low": 0.014712377964457471,
+    "ci_high": 0.0744438973217153,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.235004147750329,
+    "ci_low": 0.011811023622047244,
+    "ci_high": 0.6432935542424593,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.006162527452985233,
+    "ci_low": 8.668909575017027e-05,
+    "ci_high": 0.018296259821447686,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.11488016552675441,
+    "ci_low": 0.0,
+    "ci_high": 0.3430656934306569,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.060612759800589146,
+    "ci_low": 0.029547574096399243,
+    "ci_high": 0.07784680798365291,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.250752179246392,
+    "ci_low": 0.049907865386480454,
+    "ci_high": 0.6432935542424593,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.01004003050479395,
+    "ci_low": 8.668909575017027e-05,
+    "ci_high": 0.018296259821447686,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.12120566472394405,
+    "ci_low": 0.0015748031496062992,
+    "ci_high": 0.3430656934306569,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.4666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.01656783681515764,
+    "ci_low": 0.00048711015707238544,
+    "ci_high": 0.030316402429315558,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.14153413608567586,
+    "ci_low": 0.007086614173228346,
+    "ci_high": 0.36496350364963503,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.019610453102496483,
+    "ci_low": 0.008825775557803051,
+    "ci_high": 0.030630302754589094,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.1488620634643767,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.3852547020430232,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.03956794979419067,
+    "ci_low": 0.014712377964457471,
+    "ci_high": 0.0744438973217153,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.235004147750329,
+    "ci_low": 0.011811023622047244,
+    "ci_high": 0.6432935542424593,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.062417459737241575,
+    "ci_low": 0.043282627092406455,
+    "ci_high": 0.07665082000773378,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.2788861502973952,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6377785501873093,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.023234772253291427,
+    "ci_low": 5.366467832153398e-05,
+    "ci_high": 0.06953692007964205,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.21377175784900368,
+    "ci_low": 0.0,
+    "ci_high": 0.6397404703974047,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.07382909673373066,
+    "ci_low": 0.06938107044560199,
+    "ci_high": 0.08256929967594791,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.2714840024063498,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6397404703974047,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.1410866559478721,
+    "ci_low": 0.06938107044560199,
+    "ci_high": 0.2713095977220664,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.3130499339966123,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.7644382651681921,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.023816668153199157,
+    "ci_low": 0.0007306652356085782,
+    "ci_high": 0.06604722858549743,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.21268750570817738,
+    "ci_low": 0.0,
+    "ci_high": 0.6349129108253195,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.19308635322404566,
+    "ci_low": 0.06938107044560199,
+    "ci_high": 0.2713095977220664,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.3235486216606543,
+    "ci_low": 0.09055118110236221,
+    "ci_high": 0.7644382651681921,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.03303502601473424,
+    "ci_low": 0.0007306652356085782,
+    "ci_high": 0.06604722858549743,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.23139675904064863,
+    "ci_low": 0.0031496062992125984,
+    "ci_high": 0.6349129108253195,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.4666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.05237202981223368,
+    "ci_low": 0.002006233358789655,
+    "ci_high": 0.08813775220071424,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.2744271068623347,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.6369829683698296,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.07029991863648603,
+    "ci_low": 0.054985655018679434,
+    "ci_high": 0.08637718081113661,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.29056179419289924,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6397404703974047,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.1410866559478721,
+    "ci_low": 0.06938107044560199,
+    "ci_high": 0.2713095977220664,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.3130499339966123,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.7644382651681921,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "ecod",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.02195924458392586,
+    "ci_low": 0.004825692996759478,
+    "ci_high": 0.04161681413916248,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.25974971635474003,
+    "ci_low": 0.024409448818897634,
+    "ci_high": 0.5652492951763024,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.007557041967692479,
+    "ci_low": 0.00016512208714318145,
+    "ci_high": 0.019799182170459652,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.1927096655431075,
+    "ci_low": 0.00039440080173277727,
+    "ci_high": 0.5698605800795582,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.023292833548852337,
+    "ci_low": 0.002220892072075791,
+    "ci_high": 0.04785842640402157,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.26928376655712705,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.5698605800795582,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.033125342629900245,
+    "ci_low": 0.002220892072075791,
+    "ci_high": 0.049296709413603375,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.29478872928836714,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.6463754682732785,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.006648928941219937,
+    "ci_low": 7.430493921443168e-05,
+    "ci_high": 0.01913549851206406,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.18820002604455885,
+    "ci_low": 3.232793456826043e-05,
+    "ci_high": 0.5614181438998956,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.04327622293702733,
+    "ci_low": 0.03267353299345703,
+    "ci_high": 0.049296709413603375,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.3118490967424354,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6463754682732785,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.012481105999200512,
+    "ci_low": 7.430493921443168e-05,
+    "ci_high": 0.01913549851206406,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.21738353017714648,
+    "ci_low": 0.0031496062992125984,
+    "ci_high": 0.5614181438998956,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.4666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.022584060415993118,
+    "ci_low": 0.0005861834093582943,
+    "ci_high": 0.04794486272547369,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.2673711956077327,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.5632564785849458,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.025080533104271968,
+    "ci_low": 0.00918078804516089,
+    "ci_high": 0.04626162909719537,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.2832665146402969,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.5698605800795582,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.033125342629900245,
+    "ci_low": 0.002220892072075791,
+    "ci_high": 0.049296709413603375,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.29478872928836714,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.6463754682732785,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.06577234199374614,
+    "ci_low": 0.04001733781915003,
+    "ci_high": 0.089698155266929,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.3334576702679964,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6630131695825127,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.031773662106612456,
+    "ci_low": 0.0015934281409317019,
+    "ci_high": 0.06884754544092145,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.23774119891315257,
+    "ci_low": 0.007874015748031496,
+    "ci_high": 0.6636465453983702,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.062050360629662384,
+    "ci_low": 0.030134780903630625,
+    "ci_high": 0.08716875554443511,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.33357181173624423,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6636465453983702,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.13321009429983302,
+    "ci_low": 0.030134780903630625,
+    "ci_high": 0.2823267464514333,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.3499623419953875,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.7128181361758004,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.025344474800616162,
+    "ci_low": 0.0006398480876798283,
+    "ci_high": 0.06564901839046008,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.22684901308032293,
+    "ci_low": 0.0031496062992125984,
+    "ci_high": 0.6616537288070135,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.23935607598504152,
+    "ci_low": 0.08716875554443511,
+    "ci_high": 0.34857272595925615,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.36046102965942955,
+    "ci_low": 0.09055118110236221,
+    "ci_high": 0.7128181361758004,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.03413974961504345,
+    "ci_low": 0.0006398480876798283,
+    "ci_high": 0.06564901839046008,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.2587437533253687,
+    "ci_low": 0.0031496062992125984,
+    "ci_high": 0.6616537288070135,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.4666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.053835400175424764,
+    "ci_low": 0.0035790212388284587,
+    "ci_high": 0.09148602233696518,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.3190413924864645,
+    "ci_low": 0.01653543307086614,
+    "ci_high": 0.6621094504306184,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.0710232847575205,
+    "ci_low": 0.04961093108216887,
+    "ci_high": 0.09461137774947113,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.33380672806077355,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6636465453983702,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.13321009429983302,
+    "ci_low": 0.030134780903630625,
+    "ci_high": 0.2823267464514333,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.3499623419953875,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.7128181361758004,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "hbos",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.03619960357847473,
+    "ci_low": 0.006836054407727714,
+    "ci_high": 0.08202351977799513,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.22789915495708882,
+    "ci_low": 0.022834645669291342,
+    "ci_high": 0.5804503147568841,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.006759582378842052,
+    "ci_low": 0.0,
+    "ci_high": 0.020278747136526155,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.19441547908701196,
+    "ci_low": 0.0,
+    "ci_high": 0.5832464372610359,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.03907267136747764,
+    "ci_low": 0.013655596606741113,
+    "ci_high": 0.08328367035916566,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.24136672151911462,
+    "ci_low": 0.050393700787401574,
+    "ci_high": 0.5832464372610359,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.04123642282151576,
+    "ci_low": 0.013655596606741113,
+    "ci_high": 0.08328367035916566,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.2550023244491214,
+    "ci_low": 0.050393700787401574,
+    "ci_high": 0.6241532460510563,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.007588331794480101,
+    "ci_low": 0.0002683233916076699,
+    "ci_high": 0.02074974844248432,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.19644104315702715,
+    "ci_low": 6.465586913652087e-06,
+    "ci_high": 0.5877418607345615,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.040983235621229554,
+    "ci_low": 0.012896035005882475,
+    "ci_high": 0.08328367035916566,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.2534275212995151,
+    "ci_low": 0.045669291338582683,
+    "ci_high": 0.6241532460510563,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.011819162265558054,
+    "ci_low": 0.0002683233916076699,
+    "ci_high": 0.02074974844248432,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.2002234115015136,
+    "ci_low": 0.0015748031496062992,
+    "ci_high": 0.5877418607345615,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.39999999999999997,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.028855752697533977,
+    "ci_low": 0.00021878676546471551,
+    "ci_high": 0.06622387007256102,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.2078641831556676,
+    "ci_low": 0.004724409448818898,
+    "ci_high": 0.583779399837794,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.038527824380709536,
+    "ci_low": 0.010146752254948503,
+    "ci_high": 0.08515797375065397,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.24253310661031968,
+    "ci_low": 0.031496062992125984,
+    "ci_high": 0.5832464372610359,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.04123642282151576,
+    "ci_low": 0.013655596606741113,
+    "ci_high": 0.08328367035916566,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.2550023244491214,
+    "ci_low": 0.050393700787401574,
+    "ci_high": 0.6241532460510563,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.08266979271240599,
+    "ci_low": 0.06804681211170509,
+    "ci_high": 0.10577986033710167,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.3837498526576411,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6847719460858147,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.025739146806199643,
+    "ci_low": 0.00017750624367892008,
+    "ci_high": 0.07454237941296109,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.22988035082539424,
+    "ci_low": 1.2931173827304175e-05,
+    "ci_high": 0.6856911134283395,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.09901419151005493,
+    "ci_low": 0.07454237941296109,
+    "ci_high": 0.11429156336009827,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.4480030515434732,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6856911134283395,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.10796749815331426,
+    "ci_low": 0.1014022993427391,
+    "ci_high": 0.11429156336009827,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.4747438695251671,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.7659135673734214,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.029340463114563727,
+    "ci_low": 0.0006398480876798283,
+    "ci_high": 0.0751803720910317,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.2303854164452703,
+    "ci_low": 0.0004849190185239065,
+    "ci_high": 0.6875217240180745,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.39999999999999997,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.3333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.14531949028249477,
+    "ci_low": 0.1014022993427391,
+    "ci_high": 0.22026460814464696,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.47763100863277863,
+    "ci_low": 0.06771653543307085,
+    "ci_high": 0.7659135673734214,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.03177736080883694,
+    "ci_low": 0.0006398480876798283,
+    "ci_high": 0.0751803720910317,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.2508877925484611,
+    "ci_low": 0.0031496062992125984,
+    "ci_high": 0.6875217240180745,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.39999999999999997,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.05668290743129847,
+    "ci_low": 0.0012053912361452248,
+    "ci_high": 0.09442940654641403,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.3155890414830119,
+    "ci_low": 0.006299212598425197,
+    "ci_high": 0.6856138724751863,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.10503656808154478,
+    "ci_low": 0.07454237941296109,
+    "ci_high": 0.13028228282874235,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.4722274505132897,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.6856911134283395,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.10796749815331426,
+    "ci_low": 0.1014022993427391,
+    "ci_high": 0.11429156336009827,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.4747438695251671,
+    "ci_low": 0.059055118110236206,
+    "ci_high": 0.7659135673734214,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "isolation_forest",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.020418899781184805,
+    "ci_low": 0.005914064099356279,
+    "ci_high": 0.04436830481537287,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.006812065032588432,
+    "ci_low": 0.0029547732195390037,
+    "ci_high": 0.010236220472440945,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.009306105671908357,
+    "ci_low": 0.0,
+    "ci_high": 0.01687547730603315,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.0035550503470115707,
+    "ci_low": 0.0,
+    "ci_high": 0.007515544741822114,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.5333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.026971864293075996,
+    "ci_low": 0.011042839709691922,
+    "ci_high": 0.05576998493260956,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.04839778173335474,
+    "ci_low": 0.007515544741822114,
+    "ci_high": 0.11563055636375393,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.02781395753706181,
+    "ci_low": 0.013569119441649366,
+    "ci_high": 0.05576998493260956,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.049304075583687525,
+    "ci_low": 0.010234426292820453,
+    "ci_high": 0.11563055636375393,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7333333333333334,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.013775357073360285,
+    "ci_low": 0.011308313173050163,
+    "ci_high": 0.017639166959070363,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.024004280689156225,
+    "ci_low": 0.0031496062992125984,
+    "ci_high": 0.05895322147867974,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6,
+    "ci_low": 0.6,
+    "ci_high": 0.6,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.6000000000000001,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 0.8000000000000002,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.027743780650025956,
+    "ci_low": 0.013569119441649366,
+    "ci_high": 0.055559454271501996,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.04904160839208647,
+    "ci_low": 0.010234426292820453,
+    "ci_high": 0.11563055636375393,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7333333333333334,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.007816500686063458,
+    "ci_low": 0.0054454882514842025,
+    "ci_high": 0.011308313173050163,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.0038809305274783643,
+    "ci_low": 0.0,
+    "ci_high": 0.009910014289576333,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.4666666666666666,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 0.6,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.017760284611053005,
+    "ci_low": 0.0012692491413233858,
+    "ci_high": 0.04102871060290202,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.005881964377678971,
+    "ci_low": 0.0009827692108751172,
+    "ci_high": 0.009448818897637795,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.5333333333333333,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.028508116271226392,
+    "ci_low": 0.011042839709691922,
+    "ci_high": 0.05157588391917275,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.06647545243863744,
+    "ci_low": 0.007515544741822114,
+    "ci_high": 0.17695018265283033,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.02781395753706181,
+    "ci_low": 0.013569119441649366,
+    "ci_high": 0.05576998493260956,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.049304075583687525,
+    "ci_low": 0.010234426292820453,
+    "ci_high": 0.11563055636375393,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7333333333333334,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.01,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "fpr",
+    "mean": 0.08282767151350574,
+    "ci_low": 0.0017014307485840364,
+    "ci_high": 0.18602241532332972,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recall",
+    "mean": 0.09634566304316232,
+    "ci_low": 0.001778036401254324,
+    "ci_high": 0.22032981886996486,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "aci_oracle",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "fpr",
+    "mean": 0.07981104787537267,
+    "ci_low": 0.002311034278825376,
+    "ci_high": 0.17555367499845198,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recall",
+    "mean": 0.09498980883080453,
+    "ci_low": 0.0006724210390198169,
+    "ci_high": 0.22445448576835444,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "fpr",
+    "mean": 0.10358592424605277,
+    "ci_low": 0.061474421672770285,
+    "ci_high": 0.1877149167165473,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recall",
+    "mean": 0.19648239211532778,
+    "ci_low": 0.06692913385826772,
+    "ci_high": 0.2980635567193612,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "ks_certified",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "fpr",
+    "mean": 0.10424675335107891,
+    "ci_low": 0.061474421672770285,
+    "ci_high": 0.1877149167165473,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recall",
+    "mean": 0.2051153559794352,
+    "ci_low": 0.06692913385826772,
+    "ci_high": 0.2980635567193612,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "fpr",
+    "mean": 0.06991302671567372,
+    "ci_low": 0.038655232809407906,
+    "ci_high": 0.11014056017668065,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recall",
+    "mean": 0.1297135548190156,
+    "ci_low": 0.03937007874015748,
+    "ci_high": 0.2218360174564554,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.6,
+    "ci_low": 0.20000000000000004,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "martingale_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 0.6000000000000001,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 0.8000000000000002,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "fpr",
+    "mean": 0.1078766872334432,
+    "ci_low": 0.061474421672770285,
+    "ci_high": 0.19860471836364013,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recall",
+    "mean": 0.2056402903626373,
+    "ci_low": 0.06850393700787402,
+    "ci_high": 0.2980635567193612,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "oracle_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "fpr",
+    "mean": 0.049813740505110636,
+    "ci_low": 0.015344721697791325,
+    "ci_high": 0.07315321265660799,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recall",
+    "mean": 0.08290341830603896,
+    "ci_low": 0.003252190217567,
+    "ci_high": 0.2218360174564554,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.4666666666666666,
+    "ci_low": 0.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_bar",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "fpr",
+    "mean": 0.09295661692788075,
+    "ci_low": 0.02834201487614585,
+    "ci_high": 0.18844558195215586,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recall",
+    "mean": 0.13970395705531827,
+    "ci_low": 0.06692913385826772,
+    "ci_high": 0.22894218514656464,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7333333333333334,
+    "ci_low": 0.20000000000000004,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "periodic_wcp",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "fpr",
+    "mean": 0.1253196608989323,
+    "ci_low": 0.061568434348840705,
+    "ci_high": 0.19055914466758858,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recall",
+    "mean": 0.3075439337267676,
+    "ci_low": 0.06692913385826772,
+    "ci_high": 0.6312481815536806,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "static",
+    "metric": "recalibrations_per_window",
+    "mean": 0.0,
+    "ci_low": 0.0,
+    "ci_high": 0.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "fpr",
+    "mean": 0.10424675335107891,
+    "ci_low": 0.061474421672770285,
+    "ci_high": 0.1877149167165473,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recall",
+    "mean": 0.2051153559794352,
+    "ci_low": 0.06692913385826772,
+    "ci_high": 0.2980635567193612,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.7999999999999999,
+    "ci_low": 0.4000000000000001,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  },
+  {
+    "model": "pca",
+    "alpha": 0.05,
+    "policy": "unlabeled_periodic",
+    "metric": "recalibrations_per_window",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 3
+  }
+]

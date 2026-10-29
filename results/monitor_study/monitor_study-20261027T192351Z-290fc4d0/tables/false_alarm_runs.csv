@@ -1,0 +1,13 @@
+base,seed,trigger,param,false_alarm_rate,n_streams
+gamma,0,martingale,,0.0,16
+gamma,0,cert_ks,,0.0,16
+gamma,0,ks_test,0.001,0.0,16
+gamma,0,adwin,0.01,0.0,16
+gamma,0,page_hinkley,25.0,0.0625,16
+gamma,0,ddm_alert,5.0,0.0,16
+lognormal,0,martingale,,0.0,16
+lognormal,0,cert_ks,,0.0,16
+lognormal,0,ks_test,0.0001,0.0,16
+lognormal,0,adwin,0.01,0.0,16
+lognormal,0,page_hinkley,25.0,0.1875,16
+lognormal,0,ddm_alert,3.5,0.25,16

@@ -1,0 +1,4 @@
+# Optional extras. hnswlib needs a C++ compiler on Windows (MSVC Build Tools); skip it if the install fails:
+# the ANN benchmark then uses faiss-cpu only.
+xgboost>=2.0
+hnswlib>=0.8

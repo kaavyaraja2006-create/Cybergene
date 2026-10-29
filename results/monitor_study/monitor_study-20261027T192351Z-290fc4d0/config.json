@@ -1,0 +1,22 @@
+{
+  "name": "monitor_study",
+  "seeds": [
+    0
+  ],
+  "alpha": 0.05,
+  "mart_delta": 0.01,
+  "far_target": 0.01,
+  "n_cal": 2000,
+  "stream_len": 4000,
+  "t0": 1000,
+  "reps": 8,
+  "n_tune": 20,
+  "eps": [
+    0.0,
+    0.1
+  ],
+  "cert_reps": 10,
+  "cert_window": 1000,
+  "cert_delta": 0.05,
+  "n_boot": 10000
+}

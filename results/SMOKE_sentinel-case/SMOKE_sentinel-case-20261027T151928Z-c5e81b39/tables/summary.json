@@ -1,0 +1,122 @@
+[
+  {
+    "agent": "original",
+    "metric": "fpr",
+    "mean": 0.4275,
+    "ci_low": 0.24666666666666665,
+    "ci_high": 0.6008333333333333,
+    "n_clusters": 4
+  },
+  {
+    "agent": "original",
+    "metric": "recall",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 4
+  },
+  {
+    "agent": "original",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 1.0,
+    "ci_low": 1.0,
+    "ci_high": 1.0,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_static",
+    "metric": "fpr",
+    "mean": 0.12583333333333332,
+    "ci_low": 0.0775,
+    "ci_high": 0.16166666666666668,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_static",
+    "metric": "recall",
+    "mean": 0.6000000000000001,
+    "ci_low": 0.5746875,
+    "ci_high": 0.6375,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_static",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.625,
+    "ci_low": 0.5,
+    "ci_high": 0.875,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored",
+    "metric": "fpr",
+    "mean": 0.06333333333333334,
+    "ci_low": 0.03833333333333333,
+    "ci_high": 0.10583333333333333,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored",
+    "metric": "recall",
+    "mean": 0.4041666666666667,
+    "ci_low": 0.2041666666666667,
+    "ci_high": 0.625,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.25,
+    "ci_low": 0.0,
+    "ci_high": 0.5,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored_bar",
+    "metric": "fpr",
+    "mean": 0.05041666666666667,
+    "ci_low": 0.02,
+    "ci_high": 0.09458333333333334,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored_bar",
+    "metric": "recall",
+    "mean": 0.4041666666666667,
+    "ci_low": 0.2041666666666667,
+    "ci_high": 0.625,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored_bar",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.25,
+    "ci_low": 0.0,
+    "ci_high": 0.5,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored_bar_hint",
+    "metric": "fpr",
+    "mean": 0.059166666666666666,
+    "ci_low": 0.03,
+    "ci_high": 0.10583333333333333,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored_bar_hint",
+    "metric": "recall",
+    "mean": 0.4041666666666667,
+    "ci_low": 0.2041666666666667,
+    "ci_high": 0.625,
+    "n_clusters": 4
+  },
+  {
+    "agent": "cal_monitored_bar_hint",
+    "metric": "violation_rate(fpr>alpha)",
+    "mean": 0.25,
+    "ci_low": 0.0,
+    "ci_high": 0.5,
+    "n_clusters": 4
+  }
+]

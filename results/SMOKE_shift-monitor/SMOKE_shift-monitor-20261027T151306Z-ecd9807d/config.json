@@ -1,0 +1,26 @@
+{
+  "seeds": [
+    0,
+    1
+  ],
+  "n_boot": 200,
+  "data": {
+    "kind": "synthetic",
+    "generator": "shift",
+    "shift_args": {
+      "n_days": 5,
+      "per_day": 1500,
+      "seed": 1
+    }
+  },
+  "models": [
+    "isolation_forest",
+    "pca",
+    "hbos"
+  ],
+  "tuning": {
+    "grid": "random",
+    "n": 3
+  },
+  "name": "SMOKE_shift-monitor"
+}

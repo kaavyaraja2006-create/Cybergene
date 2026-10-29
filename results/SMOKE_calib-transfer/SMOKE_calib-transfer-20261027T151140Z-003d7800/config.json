@@ -1,0 +1,46 @@
+{
+  "seeds": [
+    0,
+    1
+  ],
+  "n_boot": 200,
+  "data": {
+    "kind": "synthetic",
+    "generator": "shift",
+    "shift_args": {
+      "n_days": 5,
+      "per_day": 1500,
+      "seed": 1
+    }
+  },
+  "models": [
+    "isolation_forest",
+    "pca",
+    "hbos",
+    "ecod",
+    "logreg"
+  ],
+  "tuning": {
+    "grid": "random",
+    "n": 3
+  },
+  "scenarios": [
+    {
+      "kind": "random"
+    },
+    {
+      "kind": "lofo",
+      "min_support": 30
+    },
+    {
+      "kind": "temporal",
+      "fit_blocks": [
+        0
+      ],
+      "label_blocks": [
+        1
+      ]
+    }
+  ],
+  "name": "SMOKE_calib-transfer"
+}
