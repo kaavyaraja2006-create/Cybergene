@@ -14,3 +14,5 @@ extras_zip/
 final_zip/
 item3_zip/
 unsw_zip/
+
+.cache/
